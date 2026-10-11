@@ -119,9 +119,9 @@ Bütün sorular İngilizcedir; sembolik dil de kullanılabilir ("anche ricorrend
   - metinsel bağlaşıklık ve tutarlılık olgularını belirleme;
   - metne özgü bilgi ayrıntılarını çıkarma ve çıkarsama ("estrarre e inferire dal testo le specificità informative").
 - **Metin türleri:** kısa bilimsel deneme ya da klasik ve çağdaş anlatı metinleri, ya da gazetelerde ve genel veya uzmanlık dergilerinde yayımlanmış kısa güncel konu metinleri ("…di narrativa classica e contemporanea, oppure da brevi testi di attualità…").
-  - [Kanıt: 2026 S2, Aleramo, *Una donna*; 2026 S3, edebiyat tarihi üzerine bir deneme; S3'ün dayanağı ayrıca "brevi testi di varia tipologia e tematica"dır.]
+  - [Sınav örneği: 2026 S2, Aleramo, *Una donna*; 2026 S3, edebiyat tarihi üzerine bir deneme; S3'ün dayanağı ayrıca "brevi testi di varia tipologia e tematica"dır.]
 - **Önceki öğrenim ve genel kültür aynı cümlede:** "Sempre a partire da brevi testi di varia tipologia e tematica, saranno oggetto di verifica le competenze acquisite negli studi pregressi e le conoscenze di cultura generale anche di ambito sovranazionale o di argomenti oggetto del dibattito pubblico contemporaneo."
-  - Önceki öğrenimde edinilen beceriler dil bilgisini, edebiyatı ve tarihi kapsar. [Yorum; kanıt: 2024 S4 edilgen çatı, "were sung"; 2024 S1, Virginia Woolf, *To the Lighthouse*]
+  - Önceki öğrenimde edinilen beceriler dil bilgisini, edebiyatı ve tarihi kapsar. [Yorum; Sınav örneği: 2024 S4 edilgen çatı, "were sung"; 2024 S1, Virginia Woolf, *To the Lighthouse*]
   - Genel kültür kısa metinlerden hareketle sorulur. Hedefler "In particolare" ile örnek olarak verilir:
     - temsil edilen mekân ve zamanda yön bulma, yani önemli tarihsel-kültürel olguları mekân ve zamana yerleştirme (edebiyat bilgisi de buraya dayanır: "fenomeni storico-culturali di rilievo");
     - başlıca ulusal ve uluslararası kurumlar ("le principali istituzioni nazionali e internazionali"). [Yorum: "ulusal" İtalya'nın kurumlarını ifade eder; aynı sayfa "Indicazioni nazionali"de "nazionale"yi bu anlamda kullanıyor. Pratikte İtalya'nın temel devlet kurumları, AB gibi uluslarüstü kurumlar ve başlıca uluslararası kuruluşlar.]
@@ -198,7 +198,7 @@ Yalnızca matematik ve kimyada vardır; fizikte ve biyolojide yoktur.
 - "Fondamenti di chimica inorganica" ve "Fondamenti di chimica organica".
 - "calcoli stechiometrici elementari".
 - "bilanciamento di semplici reazioni". İki kez geçer: stokiyometride ve redoks maddesinde ("Bilanciamento di semplici reazioni").
-  - Bu niteleyicinin erimi sınav kanıtıyla kalibre edilir: redoks ve disproporsiyonlaşma denkleştirmesine kadar uzanır. [Kanıt: 2026 S34, S39, S40]
+  - Bu niteleyicinin erimi çıpa sorularıyla kalibre edilir: redoks ve disproporsiyonlaşma denkleştirmesine kadar uzanır. [Çıpa: 2026 S34, S39, S40]
 - "Elementi di cinetica chimica e catalisi".
 - Organik kimyada "Elementi di nomenclatura".
 
@@ -286,7 +286,7 @@ Derinlik niteleyicisi yoktur; derinliği T verir.
 - İkinci derece denklemde diskriminant, gerçek kök sayısı ve kök-katsayı bağıntıları kapsamdadır [Yorum: doğrudan uygulama].
 
 **Üstel ve logaritmik ifadeler:**
-- Üstel ve logaritmik denklem ve eşitsizlikler "Funzioni elementari … esponenziali, logaritmiche" ile "Logaritmi (in base 10 e in base e) e loro proprietà" üzerinden kapsamdadır [Yorum; kanıt: 2026 S56 üstel eşitsizlik, 2026 S60 logaritmik denklem].
+- Üstel ve logaritmik denklem ve eşitsizlikler "Funzioni elementari … esponenziali, logaritmiche" ile "Logaritmi (in base 10 e in base e) e loro proprietà" üzerinden kapsamdadır [Yorum; Sınav örneği: 2026 S56 üstel eşitsizlik, 2026 S60 logaritmik denklem].
 - Logaritmanın tanımı ve taban değiştirme her tabanda kapsamdadır (kapalı sayım kuralı) [Sınav örneği: 2024 S49, f(x) = log₂(x² + 12), yalnızca log₂ tanımı].
 - Geometrik büyüme ve yarılanma, üstel fonksiyonun ayrık hâli olarak kapsamdadır [Yorum: "Potenze", "esponenziali"; $C_{max}$ s.340 "sia in un contesto discreto sia continuo"].
 - Köklü denklem ve eşitsizlikler sınırdadır (kanıtlı). "Funzioni elementari" listesinde "irrazionali" yoktur.
@@ -357,7 +357,7 @@ Derinlik niteleyicisi yoktur; derinliği T verir.
 
 **Asit-baz ve bağ:**
 - "il concetto di acido e di base" Lewis tanımını da kapsar [Yorum; Sınav örneği: 2024 S39, NH₃ + BF₃].
-- Karbonun sp, sp² ve sp³ hibritleşmesi "legami tra atomi di carbonio" ile kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum; kanıt: 2025 S43].
+- Karbonun sp, sp² ve sp³ hibritleşmesi "legami tra atomi di carbonio" ile kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum; Sınav örneği: 2025 S43].
 - Molekül geometrisi (VSEPR) ve molekül polaritesi kapsamdadır [Yorum: "Polarità dei legami" ve "Legami intermolecolari"; $C_{max}$ s.346 "i fondamenti della relazione tra struttura e proprietà"]. Karbon dışı atomlarda (N, O, B) hibritleşme yalnızca geometriyi açıklama düzeyindedir.
 
 **Madde ve stokiyometri:**
@@ -365,11 +365,11 @@ Derinlik niteleyicisi yoktur; derinliği T verir.
 - Karışımları ayırma yöntemleri (süzme, damıtma, kromatografi, dekantasyon vb.) kapsamdadır [Yorum: "sistemi eterogenei e sistemi omogenei"].
 
 **Enerji:**
-- Ekzotermik ve endotermik tepkime kavramı kapsamdadır [Yorum: "Energia di legame", "i differenti tipi di reazione chimica"; kanıt: 2026 S47]. Bağ enerjilerinden tepkime enerjisi tahmini (Σ kırılan − Σ oluşan) de kapsamdadır.
+- Ekzotermik ve endotermik tepkime kavramı kapsamdadır [Yorum: "Energia di legame", "i differenti tipi di reazione chimica"; Sınav örneği: 2026 S47]. Bağ enerjilerinden tepkime enerjisi tahmini (Σ kırılan − Σ oluşan) de kapsamdadır.
 - Hess yasası, oluşum entalpileri ve ΔG hesapları dışlanandır (Kural 3c hariç).
 
 **Organik kimya:**
-- Sekiz fonksiyonel grubun tanımlayıcı tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Gruppi funzionali", "i differenti tipi di reazione chimica"]. Bu tepkimeler: esterleşme, ester hidrolizi ve sabunlaşma, amit oluşumu, alkollerin yükseltgenmesi, alkenlere katılma ve yanma.
+- Sekiz fonksiyonel grubun tanımlayıcı tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Gruppi funzionali", "i differenti tipi di reazione chimica"]. Bu tepkimeler: esterleşme, ester hidrolizi ve sabunlaşma, amit oluşumu ve alkollerin yükseltgenmesi. Hidrokarbon tepkimeleri (alkenlere katılma, yanma) de aynı derinlikte kapsamdadır [Yorum: "Idrocarburi alifatici", "i differenti tipi di reazione chimica"].
 - Tepkime mekanizmaları (SN1, SN2, E1, E2) dışlanandır.
 
 **Kapalı sayımlar:**
@@ -379,7 +379,7 @@ Derinlik niteleyicisi yoktur; derinliği T verir.
   - Peroksitlerde oksijenin yükseltgenme basamağı "numero di ossidazione" ile kapsamdadır.
 - "Idrocarburi alifatici, aliciclici e aromatici".
 - Sekiz fonksiyonel grup: "alcoli, eteri, ammine, aldeidi, chetoni, acidi carbossilici, esteri, ammidi".
-  - Öteki gruplar dışlanandır: alkil halojenürler, tiyoller, nitriller, anhidritler.
+  - Öteki gruplar sınırdadır: alkil halojenürler, tiyoller, nitriller, anhidritler (Sınır listesi, Kimya).
   - Biyolojide Kural 3c ile girenler: sisteinde tiyol ve disülfit köprüsü; ATP ve nükleik asitlerde fosfat esteri ve anhidrit bağı.
 
 #### "ecc." ve açık başlıklar
@@ -480,7 +480,7 @@ Ele alınış:
   - Nitel dalga-parçacık ikiliği ve belirsizlik ilkesi Sınır listesindedir (Kimya).
 - Astrofizik, kozmoloji, parçacık fiziği, yarı iletkenler, mikro- ve nano-teknolojiler (s.344).
 
-Bohr modelinin statüsü Sınır listesinde (Kimya) yazılıdır. Elektron kabukları, orbitaller ve elektron dizilimi Kimya'da "struttura elettronica degli atomi" ile kapsamdadır [Kanıt: 2025 S46].
+Bohr modelinin statüsü Sınır listesinde (Kimya) yazılıdır. Elektron kabukları, orbitaller ve elektron dizilimi Kimya'da "struttura elettronica degli atomi" ile kapsamdadır [Sınav örneği: 2025 S46].
 
 #### Kimya
 
@@ -491,8 +491,6 @@ Bohr modelinin statüsü Sınır listesinde (Kimya) yazılıdır. Elektron kabuk
   - ΔG kavramı Kural 3c ile girer.
 - Organik tepkime mekanizmaları ve "approfondimento della chimica organica"nın (s.346) geri kalanı.
   - Kapsamda kalan: sekiz grubun tanımlayıcı tepkimeleri.
-- Sekiz grup dışındaki fonksiyonel gruplar.
-  - Kural 3c istisnaları için kapalı sayımlar bölümüne bakın.
 - Biyomateryaller (s.346).
 
 #### Biyoloji
@@ -549,6 +547,8 @@ Biçim: konu ($C_{max}$ sayfası; Allegato A dayanağı; kanıt durumu). Kanıtl
   - Osmoz, tonisite ve ozmolarite karşılaştırması kapsamdadır ("il trasporto attraverso la membrana", "Omeostasi").
 - **Normalite ve eşdeğer kavramı** ($C_{max}$ dayanağı Doğrulanmalı: s.337–346'da yok, teknik ve mesleki belgelerde aranmalı; bulunmazsa tanımsız; dayanak: "i principali modi di esprimere la concentrazione"; kanıt yok).
 - **Hidrür ve peroksitlerin adlandırması** (s.346, "classificazione dei principali composti inorganici e la relativa nomenclatura"; dayanak: "ossidi, idrossidi, acidi, sali" kapalı sayımı; kanıt yok).
+- **Sekiz grup dışındaki fonksiyonel gruplar: alkil halojenürler, tiyoller, nitriller, anhidritler** (s.346, "gruppi funzionali e classi di composti ecc."; dayanak: "Gruppi funzionali" kapalı sayımı; kanıt yok).
+  - Kural 3c ile girenler için kapalı sayımlar bölümüne bakın.
 
 #### Biyoloji
 
@@ -674,7 +674,7 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
     - 2024 S58 çıpa değil; formül tanıma düzeyinde bir sınır kanıtıdır (Kural 3b).
   - **Matematik:**
     - sin x'e göre ikinci derece trigonometrik eşitsizlik (2025 S49: sin²x + sin x − 2 ≤ 0, her x için doğru);
-    - kesirli eşitsizlik (2024 S51; payda |x|);
+    - kesirli eşitsizlik (2024 S51; payında |x|);
     - köklü eşitsizlik (2025 S48);
     - iadesiz çekilişte kombinasyon (2026 S58: 7/22);
     - teğet-kiriş açısı (2024 S52).

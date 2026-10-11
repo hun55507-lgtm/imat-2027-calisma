@@ -117,7 +117,7 @@ Kural 2 — Derinlik. Kapsam ve derinlik ayrı eksenlerdir: b) kapsamı daraltı
     - 2024 S58 çıpa değil; formül tanıma düzeyinde bir sınır kanıtıdır (Kural 3b).
   - Matematik:
     - sin x'e göre ikinci derece trigonometrik eşitsizlik (2025 S49: sin²x + sin x − 2 ≤ 0, her x için doğru);
-    - kesirli eşitsizlik (2024 S51; payda |x|);
+    - kesirli eşitsizlik (2024 S51; payında |x|);
     - köklü eşitsizlik (2025 S48);
     - iadesiz çekilişte kombinasyon (2026 S58: 7/22);
     - teğet-kiriş açısı (2024 S52).
