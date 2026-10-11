@@ -1,6 +1,6 @@
 # IMAT 2027 sorumluluk kılavuzu: nihai tanımlar (Belge 1 ve Belge 2)
 
-**Sürüm:** 11 Ekim 2026. D.M. 1005/2026'ya göre; 10 Ekim 2026 sürümünün hataları ve eksikleri giderilmiş hâli.
+**Sürüm:** D.M. 1005/2026'ya göre (11 Ekim 2026). 2027 DM'si yayımlandığında Belge 2'deki güncelleme prosedürü uygulanır.
 
 **Kılavuzun amacı:** Allegato A ile Indicazioni kullanılırken sınavda hangi konudan, hangi kaynaktan ve hangi derinlikte sorumlu olunduğunu belirlemek. Verimli çalışma planı bu belirlemenin üzerine kurulur.
 
@@ -10,7 +10,7 @@
 
 # Belge 1: Terminal Sınav Çerçevesi — İçerik ve Derinlik Filtresi ($M_3$)
 
-**Tanımlanan dosya:** Allegato A, 4 sayfa. Basılı metinde DM numarası ve tarihi yok; bunlar yalnızca PDF meta verisinde (CreationDate 4.8.2025, ModDate 7.8.2026).
+**Tanımlanan dosya:** Allegato A, 4 sayfa. Basılı metinde DM numarası ve tarihi yok.
 - s.1: başlık, iki numarasız giriş paragrafı (genel beceri ve bilgi listesi; okul hazırlığı paragrafı), bölüm 1 ve 2.
 - s.2: 3 Biyoloji ve 4 Kimya'nın başı.
 - s.3: Kimya'nın devamı ve 5 Matematik.
@@ -48,13 +48,12 @@
 ## Yasal kimlik
 
 - **D.M. 1005/2026 ve Allegato A'nın rolü.** D.M. 1005/2026 6 Ağustos 2026 tarihlidir ve 7 Ağustos 2026'da MUR'da yayımlandı. Allegato A'sı IMAT 2026/27'nin soru programıdır; DM m.2 c.2 Allegato A'ya atıf yapar. 2027 DM'si çıkana kadar $M_3$ bu metindir.
-  - Statü: tarih ve rol Birincil\*; m.2 c.2 atfı Birincil (kullanıcı okuması). Bu atıf, 2014'ten beri IMAT DM'lerindeki "Sulla base dei programmi di cui all'Allegato A…" kalıbıyla tutarlı. "2027 DM'si çıkana kadar": Varsayım.
-- **Düzeltme ilanı.** DM sayfasındaki 26.8.2026 tarihli düzeltme ilanı (MUR'da 27.8.2026) yalnızca Tabella A'daki sınav merkezlerini düzeltir; Allegato A'yı etkilemez. [Statü: Birincil\*] Ekler için başka errata ilanı da çıkabilir. 2027'de DM sayfasındaki ilanlar izlenir.
+  - Statü: tarih ve rol Birincil\*; m.2 c.2 atfı Birincil. "2027 DM'si çıkana kadar": Varsayım.
+- **Düzeltme ilanı.** DM sayfasındaki 26.8.2026 tarihli düzeltme ilanı (MUR'da 27.8.2026) yalnızca Tabella A'daki sınav merkezlerini düzeltir; Allegato A'yı etkilemez. [Statü: Birincil\*]
 - **Dosyanın kimliği.** Ekteki dosya D.M. 1005/2026 Allegato A ile aynıdır. Gövde D.M. 1133/2024'te de aynıydı. LM-42 başlığa D.M. 599/2025 ile girdi.
   - Statü: Birincil (10.10.2026'da MUR'daki 2026 ve 2024 PDF'leriyle karşılaştırıldı; gövde ve sayfa düzeni aynı, 2024 başlığında LM-42 yok).
-  - Ayırt edici iz: "Potenze con esponente intero, razionale)" satırındaki açılışı olmayan kapanış parantezi. İfadenin kendisi 2019 ve 2023 metinlerinde de geçer; iz yılı değil, Allegato A ailesini tanıtır.
-- **Her yıl yeni DM.** 2023'ten beri her yıl Ağustos başında yeni bir DM çıkıyor:
-  - 1082 (7.8.2023)
+  - Ayırt edici iz: "Potenze con esponente intero, razionale)" satırındaki açılışı olmayan kapanış parantezi.
+- **Her yıl yeni DM.** Her yıl Ağustos başında yeni bir DM çıkıyor:
   - 1133 (6.8.2024)
   - 599 (7.8.2025; MUR'da 8.8.2025)
   - 1005 (6.8.2026; MUR'da 7.8.2026)
@@ -63,26 +62,20 @@
 
 ## Hukuki çerçeve
 
-- **L. 264/1999 m.4.** [Statü: İkincil — Normattiva açılamadı; kopyalar ve DM atıflarıyla tutarlı]
+- **L. 264/1999 m.4.** [Statü: İkincil]
   - c.1, birinci cümle: kabulü "prove di cultura generale, sulla base dei programmi della scuola secondaria superiore, e di accertamento della predisposizione per le discipline oggetto dei corsi medesimi" koşuluna bağlar.
   - c.1, ikinci cümle: sınavın yöntemini ve içeriğini bakana bırakır: "Per i corsi di cui all'articolo 1, comma 1, lettere a) e b), il Ministro … determina con proprio decreto modalità e contenuti delle prove di ammissione".
   - c.1-bis (L. 122/2010 m.44 c.3-bis ile eklendi): yabancı dildeki derslerin sınavı doğrudan o dilde hazırlanır. Soruların İngilizce olmasının yasal dayanağı budur.
-  - c.2: 1998-99 kayıtlarına ilişkin bir geçiş hükmüdür.
-  - DM girişlerindeki "art. 4, commi 1 e 2" bir kalıp atıftır; eski İngilizce Tıp DM'leri "commi 1 e 1-bis" der.
-- **D.L. 19/2024 m.18 c.3-ter.** L. 56/2024 ile dönüşümde eklendi. c.1 birinci cümlesindeki bando yayım süresini 60 günden 30 güne indirdi ("sessanta" → "trenta"); sorumluluk içeriğini etkilemez. [Statü: İkincil]
 - **D.Lgs. 71/2025 m.8 c.3.** Semestre filtro dahil kararnamenin hükümleri İngilizce derslere uygulanmaz: "Le disposizioni del presente decreto non si applicano ai corsi di studio erogati in lingua inglese presso le università statali e non statali legalmente riconosciute". IMAT, L. 264/1999 ve yıllık DM'ye göre yapılır. [Statü: Birincil\*]
-  - İzleme: Camera VII. Komisyonu bu fıkranın yeniden düşünülmesini istemişti. Fıkra değişirse İngilizce dersler de yeni erişim düzenine geçebilir.
 - **2027 için.** Format da Allegato A içeriği de izlenir; tetikleyici 2027 DM'sidir. [Statü: Varsayım]
 - **Tarih için bağlayıcı olan DM'dir; takvim duyurusu ön bildirimdir ve düzeltilebilir.** 2026'daki sıra: [Statü: Birincil\*]
   - 3.7.2026 duyurusu 30 Eylül dedi.
   - MUR 29.7.2026 tarihli errata corrige ile tarihi 29 Eylül'e çekti.
   - DM 1005 (6.8.2026) bunu kesinleştirdi.
 
-  Hazırlık sitelerindeki tarihler (ör. 8 Ekim) MUR belgesiyle teyit edilmeden kullanılmaz.
-
 ## Sınav biçimi (planlama ağırlıkları)
 
-- **Tek ortak sınav, iki sıralama.** Sınav LM-41, LM-46 ve LM-42 için tektir ve her yerde aynı içeriktedir. Aday kayıtta Tıp+Diş ya da Veteriner yarışmasını seçer; bu seçim geri alınamaz. İki ayrı ulusal sıralama yapılır. [Statü: İkincil; madde ve fıkra numaraları DM metninden doğrulanmalı]
+- **Tek ortak sınav, iki sıralama.** Sınav LM-41, LM-46 ve LM-42 için tektir ve her yerde aynı içeriktedir. Aday kayıtta Tıp+Diş ya da Veteriner yarışmasını seçer; bu seçim geri alınamaz. İki ayrı ulusal sıralama yapılır. [Statü: İkincil]
 - **Soru sayısı, süre ve puanlama.** 60 soru, 100 dakika, beş şık. Doğru +1,5, yanlış −0,4, boş 0; en fazla 90, asgari 20 puan. [Statü: Birincil\*]
 - **Soru dağılımı:**
 
@@ -94,11 +87,10 @@
   | Kimya | 15 | S33–47 |
   | Matematik ve fizik | 13 | S48–60 |
 
-  Matematik ve fizik bölümündeki sıra yıla göre değişti: 2023'te 8 matematik ve 5 fizik; 2024–2025'te matematik S48–54 (7), fizik S55–60 (6); 2026'da fizik S48–54 (7), matematik S55–60 (6). Bilim soruları 60 sorunun 51'ini (%85), biyoloji tek başına 23'ünü (%38) oluşturuyor. [Statü: İkincil]
-- **2026 kitapçığında şık sırası.** Yayımlanan 2026 kitapçığında bütün doğru cevaplar A şıkkında. Kitapçıktaki "doğru şık A" bilgisi bu yüzden içerik doğrulaması değildir.
-- **Elektronik cihaz ve hesap makinesi yasağı.** DM'nin Allegato 1'i (2026'da p.9 f [Birincil — kullanıcı okuması]; 2025'te p.8 f) şunları yasaklar: telefon, akıllı saat, tablet, kulaklık, webcam "o altra strumentazione similare", kişisel kalem ve kırtasiye, ders kitapları ve notlar.
-  - "calcolatrici" DM metninde adıyla geçmez; 2023–2025 Allegato 1 özetleri de bununla tutarlı.
-  - Üniversite salon yönergeleri hesap makinesini adıyla yasaklar: "…borse o zaini, carta, calcolatrici, telefoni cellulari…" (UniMe 2026 Allegato B; UniBo 2025/26 bandosu). [Statü: Birincil\*]
+  Matematik ve fizik bölümündeki sıra yıla göre değişti: 2024–2025'te matematik S48–54 (7), fizik S55–60 (6); 2026'da fizik S48–54 (7), matematik S55–60 (6). Bilim soruları 60 sorunun 51'ini (%85), biyoloji tek başına 23'ünü (%38) oluşturuyor. [Statü: İkincil]
+- **Elektronik cihaz ve hesap makinesi yasağı.** DM'nin Allegato 1'i (p.9 f) şunları yasaklar: telefon, akıllı saat, tablet, kulaklık, webcam "o altra strumentazione similare", kişisel kalem ve kırtasiye, ders kitapları ve notlar.
+  - "calcolatrici" DM metninde adıyla geçmez.
+  - Üniversite salon yönergeleri hesap makinesini adıyla yasaklar: "…borse o zaini, carta, calcolatrici, telefoni cellulari…". [Statü: Birincil\*]
   - Sonuç: hesaplar zihinden yapılır.
 
 ## Kapsam ve işlev
@@ -127,8 +119,7 @@ Bütün sorular İngilizcedir; sembolik dil de kullanılabilir ("anche ricorrend
   - metinsel bağlaşıklık ve tutarlılık olgularını belirleme;
   - metne özgü bilgi ayrıntılarını çıkarma ve çıkarsama ("estrarre e inferire dal testo le specificità informative").
 - **Metin türleri:** kısa bilimsel deneme ya da klasik ve çağdaş anlatı metinleri, ya da gazetelerde ve genel veya uzmanlık dergilerinde yayımlanmış kısa güncel konu metinleri ("…di narrativa classica e contemporanea, oppure da brevi testi di attualità…").
-  - [Kanıt: 2026'da Aleramo'nun *Una donna*'sından bir parça (S2; konu ikincil kaynakla teyitli, numara doğrulanmalı); 2026 S3, edebiyat tarihi üzerine bir deneme.]
-  - "saggistica" kurgu dışı deneme yazınıdır. "scientifica"nın beşerî bilimler denemesini kapsayıp kapsamadığı metinden çözülemez; S3'ün güvenli dayanağı "brevi testi di varia tipologia e tematica"dır.
+  - [Kanıt: 2026 S2, Aleramo, *Una donna*; 2026 S3, edebiyat tarihi üzerine bir deneme; S3'ün dayanağı ayrıca "brevi testi di varia tipologia e tematica"dır.]
 - **Önceki öğrenim ve genel kültür aynı cümlede:** "Sempre a partire da brevi testi di varia tipologia e tematica, saranno oggetto di verifica le competenze acquisite negli studi pregressi e le conoscenze di cultura generale anche di ambito sovranazionale o di argomenti oggetto del dibattito pubblico contemporaneo."
   - Önceki öğrenimde edinilen beceriler dil bilgisini, edebiyatı ve tarihi kapsar. [Yorum; kanıt: 2024 S4 edilgen çatı, "were sung"; 2024 S1, Virginia Woolf, *To the Lighthouse*]
   - Genel kültür kısa metinlerden hareketle sorulur. Hedefler "In particolare" ile örnek olarak verilir:
@@ -178,14 +169,13 @@ Bir konunun kapsamda olup olmadığı ve hangi derinlikte çalışılacağı şu
 
 2024 S50 bu sayıma girmez: sıralı sayımla çözüldüğü için kapsamın sınav örneğidir.
 
-**Tekrar.** Bu konuların hiçbiri sonraki yıllarda tekrar etmedi. Bu cümle 2026 Q35'in denge türüne bağlıdır: soru gaz dengesiyse sınır kanıtı tekrar etmiş olur. [Doğrulanmalı]
+**Tekrar.** Bu konuların hiçbiri sonraki yıllarda tekrar etmedi.
 
 **Kanıtın anlamı.** Kanıt, soru yazarının bu bölgeye çıkabildiğini gösterir; tekrar sorulacağını garanti etmez. 3b kanıt listesi geçmişi kapsar, 2027'deki çekirdek dışı soruları öngörmez.
 
 **Riskin karşılanması.**
 - Sınır türü risk Kural 3b'nin kanıtsız sınır hükmüyle karşılanır.
 - Dışlanan konulardaki risk bilerek kabul edilir.
-- Eşleme penceresi bir tarama tercihidir; 2023 kitapçığı eşlenince sayı ve kanıt durumları değişebilir (Belge 2, 3b).
 
 ## Daraltma ve genişletme araçları
 
@@ -202,13 +192,13 @@ Yalnızca matematik ve kimyada vardır; fizikte ve biyolojide yoktur.
 **Matematik:**
 - "Cenni di calcolo combinatorio". Cebir maddesinde ("Insiemi numerici e algebra") geçer, olasılık maddesinde değil.
 - "nozioni fondamentali sulle funzioni". Yalnızca "Funzioni: nozioni fondamentali sulle funzioni e loro rappresentazioni grafiche (…, ecc.)" cümlesini niteler. "Funzioni elementari…", "Funzioni composte e funzioni inverse" ve "Equazioni e disequazioni goniometriche" ayrı cümlelerdir.
-- "Seno, coseno, tangente di un angolo e loro valori notevoli": trigonometrik değer bilgisi özel açılarla (0°, 30°, 45°, 60°, 90° ve katları) sınırlıdır. Hesap makinesiz sınavla da uyumludur.
+- "Seno, coseno, tangente di un angolo e loro valori notevoli": trigonometrik değer bilgisi özel açılarla (0°, 30°, 45°, 60°, 90° ve katları) sınırlıdır.
 
 **Kimya:**
 - "Fondamenti di chimica inorganica" ve "Fondamenti di chimica organica".
 - "calcoli stechiometrici elementari".
 - "bilanciamento di semplici reazioni". İki kez geçer: stokiyometride ve redoks maddesinde ("Bilanciamento di semplici reazioni").
-  - Bu niteleyicinin erimi sınav kanıtıyla kalibre edilir: redoks ve disproporsiyonlaşma denkleştirmesine kadar uzanır. [Kanıt: 2026 S34, S39, S40 — kullanıcının birincil taraması; disproporsiyonlaşma ikincil kaynaklarda görülmedi]
+  - Bu niteleyicinin erimi sınav kanıtıyla kalibre edilir: redoks ve disproporsiyonlaşma denkleştirmesine kadar uzanır. [Kanıt: 2026 S34, S39, S40]
 - "Elementi di cinetica chimica e catalisi".
 - Organik kimyada "Elementi di nomenclatura".
 
@@ -243,7 +233,7 @@ Teknik terim oldukları için sınır koymayanlar:
 
 - **İnorganik bileşiklerin özellikleri:** "nomenclatura e principali proprietà dei composti inorganici".
 - **Derişimin ifade biçimleri:** "i principali modi di esprimere la concentrazione delle soluzioni".
-  - [Yorum] Başlıca biçimler: molarite, molalite, mol kesri, yüzdeler (m/m, m/V, V/V) ve ppm. İtalyan ders kitaplarında ve Dir. 57/2010'da molalite başlıcalar arasında sayılır.
+  - [Yorum] Başlıca biçimler: molarite, molalite, mol kesri, yüzdeler (m/m, m/V, V/V) ve ppm.
   - Normalite ve eşdeğer kavramı başlıcalar arasında sayılmaz; $C_{max}$ dayanağı bulunursa sınırdır, bulunmazsa tanımsızdır.
 - **İstatistikte grafik gösterimler:** "principali rappresentazioni grafiche". Fonksiyon grafiklerinde "principali" yoktur.
 - **Birim dönüşümleri:** "Principali conversioni tra unità di misura di sistemi diversi", yani farklı sistemlerin birimleri arasında. Aynı sistemdeki kat ve askatlar "Multipli e sottomultipli" ile, "principali" olmadan geçer.
@@ -585,11 +575,6 @@ Biçim: konu ($C_{max}$ sayfası; Allegato A dayanağı; kanıt durumu). Kanıtl
 
 **Tanımlanan dosya:** Indicazioni nazionali (D.I. 211/2010), Allegato F, liceo scientifico ordinario, s.337–346.
 - Bölümler: Matematik s.337–341, Fizik s.342–344, Doğa Bilimleri s.344–346.
-- Sayfa numaraları MIUR'un derlenmiş Word dosyasına aittir, Gazzetta Ufficiale sayfası değildir; atıflarda bölüm adı da verilir.
-- Bu sayfaların ordinario olduğunu üç iç kanıt gösterir:
-  - Matematik ile Fizik arasında ayrı bir Informatica bölümü yok; bilişim Matematik içinde "Elementi di informatica" olarak geçiyor.
-  - s.346 "cenni di elettrochimica" diyor.
-  - Beşinci yıl "biochimica e … biomateriali" diyor.
 
 Bu sayfalar $C_{max}$'ın lise ayağının eldeki kısmıdır; öteki okul türleri aşağıdaki tabloda belge adıyla tanımlanır.
 
@@ -599,14 +584,14 @@ Bu sayfalar $C_{max}$'ın lise ayağının eldeki kısmıdır; öteki okul türl
 
 | Okul türü | Lojistik donanım | İşletim sistemi | Statü ve zaman damgası |
 |---|---|---|---|
-| Liseler | D.P.R. 15 marzo 2010, n. 89: lise türleri, PECUP (Allegato A'da her lise için genel öğrenme sonuçları) ve yıllık ders saatleri ("orario annuale"); OSA içermez. Indicazioni'nin dayanağı m.13 c.10 lett. a)'dır. | D.I. 7 ottobre 2010, n. 211 (GU n.291, 14.12.2010, S.O. n.275; yürürlük 29.12.2010). Allegato A giriş notu (nota introduttiva); Allegati B–G lise OSA'ları; liceo scientifico ve "scienze applicate" seçeneği Allegato F'de. Eldeki s.337–346 ordinario'nun Matematik, Fizik ve Doğa Bilimleri kısımlarıdır. | D.P.R. 89/2010 ve D.I. 211/2010: Birincil\* (Normattiva ve GU özetleri) ve yerel MIUR derlemesi. Yürürlükte; 2027 kohortu bu metinle okudu. Yeni Indicazioni: kaynaklarda "schema di regolamento" diye geçiyor ("D.P.R." nitelemesi doğrulanmadı); CSPI görüşü 14.07.2026 (22 evet, 12 hayır); başlangıç 2027/28 birinci sınıflar; 11.10.2026'da Consiglio di Stato görüşü ve GU yayımı görülmedi. Hepsi İkincil. 2027 kohortunu etkilemez. Liceo del Made in Italy (D.P.R. 222/2024, Allegato A-ter) 2024/25'te başladı; 2027'de mezun vermez [Çıkarım]. |
-| Liceo sportivo | D.P.R. 5 marzo 2013, n. 52 (GU n.113, 16.5.2013) | Aynı D.P.R.'nin Allegato A'sı. m.2 c.4: "I risultati di apprendimento, il piano degli studi e gli obiettivi specifici di apprendimento relativi alla sezione ad indirizzo sportivo sono riportati nell'allegato A". | m.2 c.4: Birincil\*. Allegato A'nın Matematik, Fizik ve Fen metni doğrulanmadı; okul kaynakları çelişkili (bazıları OSA'ların liceo scientifico'nunkiler olduğunu yazıyor) [Doğrulanmalı]. 2027 mezunları var. |
-| Teknik enstitüler | D.P.R. 15 marzo 2010, n. 88 | Direttiva n. 57 del 15 luglio 2010 (Linee guida, ilk iki yıl; All. A.1 ekonomik, A.2 teknolojik); Direttiva n. 4 del 16 gennaio 2012 (Linee guida, son üç yıl); Direttiva n. 69 del 1 agosto 2012 (opzioni için son üç yıl Linee guida'sı; GU n.253, 29.10.2012, S.O. 200). | Varlık ve rol: İkincil (8.1.2026 tarihli decreto 36 iki direttiva'yı aynı rolle anıyor). İçerik: Dir. 57/2010 İkincil (INDIRE ve Pearson kopyaları); Dir. 4/2012 ve Dir. 69/2012 metinleri okunmadı [Doğrulanmalı]. 2027 mezunları bu metinlerle okudu. Reform D.M. 19 febbraio 2026, n. 29: İkincil; Corte dei conti tescili 6.3.2026; 2026/27'den itibaren birinci sınıflara uygulanır; indirizzi, articolazioni, quadri orari ve risultati di apprendimento belirler (adı Linee guida değildir; yeni Linee guida hazırlanıyor, MIM nota 2306, 3.9.2026). Beşinci sınıflara 2030/31'de ulaşır: Çıkarım. |
-| Mesleki enstitüler | D.Lgs. 13 aprile 2017, n. 61 | D.I. 24 maggio 2018, n. 92 (D.Lgs. 61/2017 m.3 c.3 uyarınca çıkış profilleri ve öğrenme çıktıları); D.M. 23 agosto 2019, n. 766 (D.I. 92/2018 m.4 c.4 uyarınca Linee guida; Allegati A, B, C) | D.P.R. 87/2010, D.Lgs. 61/2017 m.13 c.1 ile 2022/23'ten itibaren yürürlükten kalktı ("A decorrere dall'anno scolastico 2022/2023 il decreto del Presidente della Repubblica 15 marzo 2010, n. 87 … e' abrogato"): Birincil\*. 2027 mezunları tamamen yeni düzende. D.I. 92/2018 ve D.M. 766/2019: varlık ve rol İkincil. Allegato A'nın andığı Linee guida D.M. 766/2019 olarak okunur [Yorum]. İçerik tanımı D.I. 92/2018'in ve D.M. 766/2019'un eklerindedir (ekler okunmadı). |
+| Liseler | D.P.R. 15 marzo 2010, n. 89: lise türleri, PECUP ve yıllık ders saatleri ("orario annuale"); OSA içermez. Indicazioni'nin dayanağı m.13 c.10 lett. a)'dır. | D.I. 7 ottobre 2010, n. 211 (Indicazioni nazionali, disiplin bazlı OSA); liceo scientifico ve "scienze applicate" seçeneği Allegato F'de. Eldeki s.337–346, ordinario'nun Matematik, Fizik ve Doğa Bilimleri kısımlarıdır. | D.P.R. 89/2010 ve D.I. 211/2010: Birincil\*. Yürürlükte; 2027 kohortu bu metinle okudu. Yeni Indicazioni (schema di regolamento; CSPI görüşü 14.07.2026; başlangıç 2027/28 birinci sınıflar): İkincil; 2027 kohortunu etkilemez. |
+| Liceo sportivo | D.P.R. 5 marzo 2013, n. 52 | Aynı D.P.R.'nin Allegato A'sı (m.2 c.4; OSA Allegato A'dadır) | m.2 c.4: Birincil\*. Allegato A'nın Matematik, Fizik ve Fen metni: Doğrulanmalı. 2027 mezunları var. |
+| Teknik enstitüler | D.P.R. 15 marzo 2010, n. 88 | Direttiva n. 57 del 15 luglio 2010 (Linee guida, ilk iki yıl); Direttiva n. 4 del 16 gennaio 2012 (Linee guida, son üç yıl); Direttiva n. 69 del 1 agosto 2012 (opzioni için son üç yılın Linee guida'sı) | Varlık ve rol: İkincil. İçerik: Dir. 57/2010 İkincil; Dir. 4/2012 ve Dir. 69/2012 metinleri okunmadı (Doğrulanmalı). 2027 mezunları bu metinlerle okudu. Reform D.M. 19 febbraio 2026, n. 29: İkincil; 2026/27'den itibaren birinci sınıflara uygulanır, ders saatlerini, profilleri ve öğrenme sonuçlarını belirler (adı Linee guida değildir). Beşinci sınıflara 2030/31'de ulaşır: Çıkarım. |
+| Mesleki enstitüler | D.Lgs. 13 aprile 2017, n. 61 | D.I. 24 maggio 2018, n. 92 (çıkış profilleri ve öğrenme çıktıları); D.M. 23 agosto 2019, n. 766 (Linee guida) | D.P.R. 87/2010, D.Lgs. 61/2017 m.13 c.1 ile 2022/23'ten itibaren yürürlükten kalktı: Birincil\*. 2027 mezunları tamamen yeni düzende. D.I. 92/2018 ve D.M. 766/2019: varlık ve rol İkincil. Allegato A'nın andığı Linee guida D.M. 766/2019 olarak okunur [Yorum]; içerik tanımı D.I. 92/2018'in ve D.M. 766/2019'un eklerindedir. |
 
 ## Yasal dayanak
 
-[Statü: İkincil — Normattiva açılamadı; kopyalar ve DM atıflarıyla tutarlı]
+[Statü: İkincil]
 
 - **Programlar koşulu.** L. 264/1999 m.4 c.1'in birinci cümlesi kabulü "prove di cultura generale, sulla base dei programmi della scuola secondaria superiore, e di accertamento della predisposizione per le discipline oggetto dei corsi medesimi" koşuluna bağlar.
 - **D.L. 19/2024 m.18 c.3-ter.** L. 56/2024 ile dönüşümde eklendi; c.1 birinci cümlesindeki bando süresini 60 günden 30 güne indirdi. Alıntılanan ifadeyi etkilemez.
@@ -669,12 +654,12 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
 - **c) Derinlik niteleyicisi yoksa** derinliği T belirler, $C_{max}$ sınırlar. Yardımcının B satırı başına verdiği 1–3 derinlik notları T'yi kontrol eder. Zayıf işaretler ("concetto di…", "nozione di…") bu dalda kalır.
 - **Biyoloji:** niteleyici olmadığı için derinlik daima c) dalındadır; kapsam b) ile daralır.
   - Hem biyolojide hem kimyada başlığı olan bir öğede (ör. enzimler) kimya niteleyicisi yalnızca kimya başlığındaki kullanımı sınırlar.
-- **Ü7** (NCERT Sınıf 11 Biyoloji, Bölüm 7; güncel baskı Reprint 2026-27) [Statü: Birincil\* — ncert.nic.in PDF'inin arama özeti; MTG'nin rasyonelleştirme listesiyle tutarlı]:
+- **Ü7** (NCERT Sınıf 11 Biyoloji, Bölüm 7; güncel baskı Reprint 2026-27) [Statü: Birincil\*]:
   - Bu baskıda yalnızca 7.1 Organ and Organ System ve 7.2 Frogs vardır. Rasyonelleştirmede 7.1 Animal Tissue'nun tamamı (7.1.1–7.1.4), 7.3 Earthworm ve 7.4 Cockroach silindi.
   - Dokular ayrı bölüm olarak yoktur, yalnızca geçerken anılır ("epithelial, connective, muscular and neural"). Kurbağa genel bilgi düzeyinde okunur. Hayvan dokuları T'deki başka bir kaynaktan çalışılır.
   - Eski baskı kullanılıyorsa: 7.1 Animal Tissue "I tessuti animali" nedeniyle atlanmaz ve dokular için kaynak olarak kullanılabilir; toprak solucanı ve hamamböceği bölümleri atlanır.
   - Gerekçe b) dalıdır: "nell'uomo" ile birlikte "degli animali e dell'uomo", "I tessuti animali" ve LM-42.
-- **Derinlik çıpaları** [Statü: Birincil — MUR kitapçıkları, kullanıcı taraması; içerikler ikincil soru haritalarıyla karşılaştırıldı]. T en az bu soruların gerektirdiği düzeyi karşılamalıdır. Çıpa alt sınırdır; üst sınırı Kural 2a ve $C_{max}$ koyar, çatışmada öncelik sırası uygulanır.
+- **Derinlik çıpaları** [Statü: Birincil — MUR kitapçıkları]. T en az bu soruların gerektirdiği düzeyi karşılamalıdır. Çıpa alt sınırdır; üst sınırı Kural 2a ve $C_{max}$ koyar, çatışmada öncelik sırası uygulanır.
   - **Kimya:**
     - zayıf asidin pH'ı Ka ve derişimden (2025 S39: Ka = 1,0×10⁻⁵, 0,001 M → pH 4);
     - seyreltmeyle pH değişimi (2024 S46: pH 2 → 4);
@@ -682,7 +667,7 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
     - sınırlayıcı bileşen (2024 S45: 9 g C + 36 g O₂);
     - redoks denkleştirme (2026 S34, S39, S40).
   - **Fizik:**
-    - x(t) = A cos ωt'den hız (2024 S59) [Doğrulanmalı: metin ikincil kaynaklarda bulunamadı];
+    - x(t) = A cos ωt'den hız (2024 S59);
     - sürtünmeli Newton II (2025 S59);
     - seri-paralel eşdeğer direnç (2025 S56);
     - Stevino ile derinlik (2026 S52).
@@ -698,7 +683,7 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
     - kas kasılmasının moleküler düzeyi (2025 S16–S17);
     - kanda gaz taşınımı ve Bohr etkisi (2025 S18);
     - yarışmalı inhibisyon (2025 S20);
-    - Rosalind Franklin'in yöntemi (2026 S29) [numara doğrulanmalı; bir ikincil harita S30–31 veriyor].
+    - Rosalind Franklin'in yöntemi (2026 S29).
 
 **Kural 3 — Dışlama, istisna ve bağımlılık.**
 
@@ -724,15 +709,14 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
 - **Süreler:** "en fazla" bir tavandır. Tanıma katmanlarına plan sıkıştığında en son ayrılır, kanıta yakınlığa göre sıralanır.
 
 **Eşleme penceresi.**
-- Pencere 2024–2026'dır ve bir tarama tercihidir. Üç kitapçık birincil olarak tarandı; LM-42 2025'te eklendi.
-- 2023 aynı formattadır ve kapsam dışında bırakılamaz: DM 1082/2023, MUR/CINECA, 60 soru, 4/5/23/15/13, büyük olasılıkla aynı Allegato A gövdesi. Cambridge'in son IMAT'ı 2022'ydi. 2023 kitapçığı eşlenince pencereye eklenir [Doğrulanmalı].
+- Pencere 2024–2026'dır: üç yıl aynı soru dağılımıyla (4-5-23-15-13) yapıldı ve üç kitapçık birincil olarak tarandı; LM-42 2025'te eklendi. 2023 ve öncesi eşleme dışıdır.
 - Kanıt kararı yalnızca bu eşlemeye dayanır ve Allegato A merkezli ilkeyi değiştirmez.
 
 **Hastalık, ilaç ve tanı çerçeveli sorular** ayrı bir tıp bilgisi sorumluluğu doğurmaz:
 - Okuma sorularında cevap metindedir (2025 S1, ilaç prospektüsü; 2025 S4, kuru/prion).
-- Bilim sorularında Allegato A'daki bir konuya dayanır (2026 S31, orak hücre: "malattie ereditarie"; numara doğrulanmalı, bir ikincil harita S32 veriyor).
+- Bilim sorularında Allegato A'daki bir konuya dayanır (2026 S31, orak hücre: "malattie ereditarie").
 
-**3b kanıt listesi** (MUR kitapçıklarıyla doğrulandı; içerikler ikincil soru haritalarıyla karşılaştırıldı):
+**3b kanıt listesi** (MUR kitapçıklarıyla doğrulandı):
 
 | Tür | Soru | Konu ve alt kavram |
 |---|---|---|
@@ -741,20 +725,15 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
 | Sınır | 2026 S49 | Galile dönüşümlerinin geçerli olduğu göreli hareket |
 | Sınır | 2025 S50 | Kümelerin kartezyen çarpımı |
 | Sınır | 2025 S41 | Sulu çözelti dışı katı–gaz dengesi ve nitel Le Chatelier: ısı + 2FeCl₃(k) ⇌ 2FeCl₂(k) + Cl₂(g) |
-| Sınır | 2025 S48 | Köklü eşitsizlik √(2x) < 1 + x; çözüm x ≥ 0 (metin katmanında kök işareti düşüyor; okuma şıklardan çıkarıldı ve ikincil çözümle teyitli) |
+| Sınır | 2025 S48 | Köklü eşitsizlik √(2x) < 1 + x; çözüm x ≥ 0 |
 | Sınır | 2025 S25 | Üre döngüsünün yeri (karaciğer) ve işlevi |
 | Sınır | 2024 S58 | Manyetik alanda elektron; formül tanıma düzeyinde yarıçap, periyot ve frekans |
 
-- Listeden çıkarıldı: 2024 S50 (iadeli çekiliş, 49/100). Sıralı sayımla çözüldüğü için kapsamın sınav örneğidir.
-- **Açık kalemler** [Doğrulanmalı]:
-  - 2026 Q35'in denge türü. Gaz dengesiyse sınır kanıtı olarak eklenir.
-  - 2026 S29 ve S31'in numaraları.
-  - 2024 S59'un metni.
-  - 2026 redoks sorularında disproporsiyonlaşma.
+- 2024 S50 (iadeli çekiliş, 49/100) listede yoktur: sıralı sayımla çözüldüğü için kapsamın sınav örneğidir.
 
 **Tarama durumu:**
-- 2024, 2025 ve 2026 kitapçıkları 10.10.2026'da baştan sona tarandı [Statü: Birincil — kullanıcı taraması].
-- Kullanıcı taramasına göre 2024'te dışlanmış bir konudan ya da hastalık veya ilaç çerçeveli soru yoktur. İkincil haritalar 2024 biyolojisi (S16–S32) için soru soru bulunmadığından bu iddia bağımsız olarak doğrulanmadı.
+- 2024, 2025 ve 2026 kitapçıkları 10.10.2026'da baştan sona tarandı [Statü: Birincil].
+- 2024'te dışlanmış bir konudan ya da hastalık veya ilaç çerçeveli soru yoktur.
 
 **3c Araçsal bağımlılık r(j,k).**
 - **Kural:** $M_3^{+}$'daki bir j hedefini çözmek için zorunlu olan ve $C_{max}$'ta dayanağı bulunan k konusu matrise girer, yalnızca j'nin gerektirdiği derinlikte.
@@ -770,7 +749,7 @@ Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanla
 - **Zar taşınımı (j) için ozmotik basınç (k).**
   - Osmoz, tonisite ve ozmolarite karşılaştırması biyolojide "il trasporto attraverso la membrana" ve "Omeostasi" ile zaten $M_3$'tedir.
   - Nicel ozmotik basınç (π = iMRT) $M_3$ kimyasında yoktur.
-  - Dayanak: Direttiva 57/2010, ilk iki yıl, Scienze integrate (Chimica): All. A.2 "Le soluzioni: percento in peso, molarità, molalità, proprietà colligative."; All. A.1 "…proprietà colligative delle soluzioni." [Statü: İkincil — INDIRE ve Pearson kopyaları]
+  - Dayanak: Direttiva 57/2010, ilk iki yıl, Scienze integrate (Chimica): All. A.2 "Le soluzioni: percento in peso, molarità, molalità, proprietà colligative."; All. A.1 "…proprietà colligative delle soluzioni." [Statü: İkincil]
   - "Pressione osmotica" adıyla geçmediği için koligatif özellik düzeyinde girer. Koligatif özelliklerin geri kalanı Sınır listesindedir.
   - Ordinario OSA'da (s.345–346) "colligat" ya da "osmo" geçmez. Scienze applicate ve sportivo OSA'ları kontrol edilene kadar "yalnızca birleşimde" işareti koşulludur.
 - **Protein yapısı ve nükleotitler (j) için tiyol, disülfit ve fosfat esteri (k).** Bunlar sekiz grup dışındaki fonksiyonel gruplardır; yalnızca tanıma ve bağ türü düzeyinde girer.
