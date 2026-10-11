@@ -2,6 +2,40 @@
 
 Belge 1 ve Belge 2, ekteki iki birincil metne yaptıkları atıflarda güvenilir: yaklaşık 125 İtalyanca alıntının hepsi Allegato A'da ya da Indicazioni s.337–346'da birebir ve belirtilen sayfada geçiyor, sayımların hepsi tutuyor ve IMAT 2027 için temel tanımlar yerinde ($M_3$ = 2027 DM'si çıkana kadar DM 1005/2026 Allegato A [Varsayım]; $C_{max}$ = 2027 kohortunun okuduğu D.I. 211/2010 ve 2010 sonrası Linee guida; İngilizce dersler D.Lgs. 71/2025 m.8 c.3 ile semestre filtro dışında). Buna karşın önceki raporun "içerik hatası yok" hükmü artık geçerli değil; çalışma kararını değiştiren üç küme sorun var. **Birincisi kapsam satırları:** "heterojen denge" ifadesi kapsamdaki çözünürlük dengesini (Kps) en fazla 1 saatlik tanımaya itiyor; molekül geometrisi (VSEPR), çarpanlara ayrılarak çözülen yüksek dereceli denklemler, organik tepkime türleri ve insan embriyolojisi ya hiç sınıflanmamış ya yanlış yerde; Allegato A'nın adıyla kapsama aldığı Sistema Tecnico ve alternatif akım çalışma listesinde görünmüyor. **İkincisi kural sistemi:** listede olmayan "yeni kavram" alt konuları (Hardy–Weinberg, koligatif özellikler, entropi, açısal momentumun korunumu) 0 saat ile T derinliği arasında karar verilmeden kalıyor; Kural 3b'nin saat birimi, tanıma katmanının içeriği ve "kanıt" ölçütü tanımsız, bu yüzden tanıma bütçesi 0 ile yaklaşık 31 saat arasında oynuyor ve 2024 S50 ile 2026 S58 birlikte okunduğunda hangi ölçüt seçilirse seçilsin bir sınıflandırma ters düşüyor. **Üçüncüsü eşleme penceresi:** 2023 de aynı MUR/CINECA formatında ve büyük olasılıkla aynı Allegato A ile yapıldı, Cambridge'in son IMAT'ı 2022'ydi; 2024–2026 penceresi bir kırılmaya değil tarama tercihine dayanıyor ve 2023 kitapçığı eşlenirse 3b saatleri değişebilir. Geri kalanlar atıf ve statü düzeyinde: yetki L. 264/1999 m.4 c.2'de değil c.1'in ikinci cümlesinde ve c.1-bis'te; yeni lise Indicazioni'si kaynaklarda "schema di D.P.R." değil "schema di regolamento"; Allegato 1'in yasak bendi 2025'te p.8 f ve DM metninde "calcolatrici" görünmüyor (önceki raporun A2 düzeltmesi geri alınmalı); 30→29 Eylül değişikliğini DM'den önce 29.7.2026 errata'sı yaptı. Bütün web kanıtı arama özetlerine dayanıyor, resmî sitelere doğrudan erişim engelliydi; 2026 Q35 ve Q49'un metni, 2023 kitapçığı ve DM 1005 Allegato 1'deki "calcol" araması gibi kalemler ancak birincil metinle kapanır.
 
+## Belgelerin amacına göre okuma (11 Ekim 2026 eki)
+
+Kullanıcı amacı netleştirdi: Belge 1 ve 2 bir çalışma listesi değil, Allegato A ile Indicazioni'yi tanımlayan ve plan kurarken bu iki belgenin nasıl kullanılacağını gösteren bir kılavuz. Bu raporun bir kısmı ise belgeleri her konuyu sınıflayan eksiksiz bir liste gibi denetledi. Bu amaçla bakınca bulgular üç gruba ayrılıyor.
+
+**1. Kaynak belgeyi yanlış ya da eksik tanımlayan ifadeler (düzeltilmeli):**
+- **Hukuk ve yönetmelik:** HA1 (L. 264/1999 m.4 c.2 → c.1'in ikinci cümlesi ve c.1-bis); HA3 (30 → 29 Eylül değişikliğini 29.7.2026 errata'sı yaptı); HA5 (Allegato 1'de yasak bendi 2025'te p.8 f; 2026 numarası doğrulanmalı).
+- **Allegato A'nın ifadelerini yanlış niteleyenler:**
+  - KD1: "in soluzione acquosa" belirtecinin dışarıda bıraktığı şey "gaz içeren dengeler"dir, bütün heterojen dengeler değil; Kps sulu ve heterojendir.
+  - KD11: "Internazionale e Tecnico" yalnızca daraltmıyor, Teknik sistemi adıyla içeriğe ekliyor; "Periodo e frequenza" alternatif akım bağlamında.
+  - MS8: "Seno, coseno, tangente di un angolo **e loro valori notevoli**" kesik alıntılanmış; ek ifade aslında bir derinlik sınırı ve niteleyici listesinde yok.
+  - MS9: "nozioni fondamentali" yalnızca ilk cümleyi niteler.
+  - MS13: "Il DNA dei procarioti" ve "La struttura del cromosoma eucariotico" daraltıcı değil, adıyla eklenen konular; "e relative interazioni" atlanmış.
+  - MS14: "Cenni di calcolo combinatorio" cebir maddesinde.
+  - KD14: "Diğer sayımlar kapalıdır" belgenin kendi logaritma tabanı okumasıyla çelişiyor.
+  - MS11–MS12: "…di sistemi diversi" düşmüş; "Leggi dei gas perfetti" iki yerde geçiyor.
+- **Bölüm 1'in aktarımı:** MS2–MS4. "oppure" "ya da" olmalı. "competenza trasversale" atlanmış. "competenze acquisite negli studi pregressi" genel kültürle aynı cümlede. "storico, geografico, sociale e istituzionale" giriş paragrafından ve "con speciale riguardo" ile geçiyor.
+- **Okul tablosu:** OM3 ("Schema di D.P.R." desteklenmiyor; kaynaklar "schema di regolamento" diyor); OM4 (liceo sportivo "ayrı OSA" doğrulanamadı); OM5 (Dir. 69/2012 eksik, DD 92/2024 atfı görülmedi); OM6 (D.M. 29/2026 tarihi 19.2.2026); statü etiketleri.
+- **Kanıt açıklamaları:**
+  - KD9 / A3: 2024–2026 penceresinin gerekçesi 2023'ü dışlamıyor.
+  - MS16–MS17 ve KD15–KD16: 2024 S58 nicel değil, formül tanıma; 2024 S49 yalnızca log₂ tanımı; 2024 S45 dolaylı kanıt; 2025 S25 yalnızca yer soruyor.
+  - KD7: 2024 S50 sıralı sayımla çözülüyor.
+  - MS28: 2026 S29/S31 numaraları doğrulanmalı.
+
+**2. Kılavuzun kullanım kuralında bir yapı sorunu (tek cümleyle düzelir):** Belge listeleri eksiksiz gibi tanımlıyor ("Her sınır öğesi … Sınır listesi'nde yazılıdır"; adım 4: "Allegato A'da ve listelerde olmayan konu … çalışılmaz"). Plan kurarken listede olmayan bir konuyla karşılaşıldığında bu cümleler onu otomatik olarak 0 saate düşürür (KD2). Önerilen cümle: "Listeler örnektir; listede olmayan konu Sınır tanımıyla sınıflanır: doğrudan uygulama → kapsam; Allegato A'da bir dayanağı olan yeni kavram → sınır; dayanaksız → dışlanan." Aynı nedenle Allegato A'nın tanımına genişleten ifadeler de eklenmeli: "Tecnico", "animale e vegetale", "e relative interazioni", "e loro applicazioni", "Selezione … artificiale" (MS27). Belge şu an yalnızca daraltan ifadeleri sayıyor.
+
+**3. Plan aşamasına ait, tanım metninin hatası olmayanlar:**
+- Tek tek konuların yeri: VSEPR (KD4), organik tepkime türleri (KD5), yüksek dereceli denklemler (KD3), insan embriyolojisi ve öteki sınır satırı ayrıntıları (KD8), radyoaktivite ve nitel kuantum (KD18).
+- Kural 3b'nin saat birimi ve tanıma katmanının içeriği (KD6).
+- Derinlik öncelikleri (KD12–KD13).
+- Dışlanan satırlarının tek başına okunması (KD17).
+- Beceri bütçesi (KD20).
+
+Bunlar plan kurulurken Allegato A'ya doğrudan bakılarak karara bağlanır. 2. maddedeki cümle eklenirse kılavuz bu kararlara doğru yolu gösterir.
+
 ## Birincil metin sağlam, web kanıtı yalnızca arama özeti
 
 Denetim üç birincil metne dayanıyor: kullanıcının güncel Belge 1–2 metni ([belgeler.md][B]), DM 1005/2026 Allegato A ([MUR PDF'i][AA]; depodaki kopyanın `pdftotext` çıktısı) ve D.I. 211/2010 Indicazioni'nin liceo scientifico ordinario s.337–346'sı ([yerel PDF][IND]). Notlar bu metinleri yeniden çıkarıp bayt bayt aynı buldu ve Belge 1'deki her çift tırnaklı ifadeyi bir betikle iki metnin sayfa dilimlerinde aradı. Bunun dışındaki her şey (DM'nin ana metni ve Allegato 1'i, L. 264/1999, okul kararnameleri, NCERT, MUR soru kitapçıkları, İtalyan ders kitapları) **yalnızca WebSearch sonuç özetleriyle** görüldü: WebFetch her alan adında DNS hatası verdi; curl ise mur.gov.it, accessoprogrammato.mur.gov.it, normattiva.it, gazzettaufficiale.it, ncert.nic.in, zanichelli.it ve hazırlık sitelerinde proxy 403 aldı. Resmî alanların özetleri bu raporda "Birincil\*" (birincil metin, ama özet üzerinden okundu) diye işaretli. Sınav kitapçığı kalemleri hiçbir yılda sayfa görüntüsüyle görülmedi; numara ve konu eşlemesi LOCOMOTIVE, IMAT Buddy, Medexphage ve Testbusters'ın soru haritalarından geliyor. İki tuzak hesaba katıldı: arama motoru sorgudaki soru numarasını özete taşıyabildiği için yalnızca numarasız ("tarafsız") sorgularla dönen eşlemeler güçlü sayıldı; MUR'un yayımladığı 2026 kitapçığında **bütün doğru cevaplar A şıkkında** olduğu için "doğru şık A" bilgisi içerik doğrulaması değildir ([Corriere Universitario][CU26]).
