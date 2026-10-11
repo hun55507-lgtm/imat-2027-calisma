@@ -21,9 +21,22 @@ Sorunlar dış atıflarda ve birkaç sınıflandırma kararında toplanıyor:
 1. **✗ L. 264/1999 fıkra numarası.** Sınavın yöntem ve içeriğini bakanlık kararnamesine bırakan hüküm m.4 **c.1**'in ikinci cümlesidir, c.2 değil. İngilizce dersler için **c.1-bis** de dayanaktır (A1).
 2. **✗ (büyük olasılıkla) "Hesap makinesi adıyla geçmez".** Belgenin alıntıladığı "altra strumentazione similare" ifadesi, hesap makinesini adıyla sayan bir cümlenin sonu (A2).
 3. **~ 2024–2026 eşleme penceresinin gerekçesi.** "Aynı bölüm yapısı" ayırt edici bir ölçüt değil, çünkü 2023 de 4/5/23/15/13 yapısındaydı (A3).
-4. **? NCERT Ü7.** Üçüncü taraf "silinen içerik" listeleri, belgedeki birincil okumayla çelişiyor (B1).
-5. **? "MUR duyurusu 30 Eylül dedi".** UniFi, MUR'un 3 Temmuz 2026 duyurusunun 29 Eylül dediğini aktarıyor (B2).
-6. **Sınıflandırmada yazılı olmayan ölçütler.** Göreli hız ile Galile dönüşümü (C1), "Esempi di forze" açık listesi ile dışlanan kütleçekimi (C2), 2024 S50 (C3) ve |x| (C4) için sınır/kapsam/dışlanan ayrımının ölçütü yazılmamış.
+4. **Sınır ile dışlananı ayıran ölçüt yazılı değil.** "Esempi di forze" açık bir liste sayılıyor ama evrensel kütleçekimi dışlanmış (C2). Bağ enerjisinden tepkime ısısı hesabı da hem doğrudan uygulama hem dışlanan "ΔH hesapları" içinde okunabiliyor (C10).
+5. **Küçük ifade sorunları:** göreli hız ve Galile (C1), 2024 S50 (C3), |x| (C4).
+
+### Karar etkisi özeti (11 Ekim 2026 eki)
+
+Belgeler Allegato A ve Indicazioni dosyalarıyla birlikte, çalışma kararı vermek için kullanılıyor. Bu yüzden her bulguyu bir soruyla yeniden değerlendirdim: bu bulgu bir konuyu kapsama sokuyor ya da çıkarıyor mu, derinliği ya da Kural 3b'deki saat bütçesini değiştiriyor mu? Değerlendirmeyi bağımsız ajanlar yaptı; raporun kaçırdığı hataları arayan ayrı bir tarama ve bu taramanın bulgularını çürütmeye çalışan bir doğrulama da yapıldı.
+
+| Bulgu | Çalışma kararını değiştirir mi? |
+|---|---|
+| A1, A2, A3 | Hayır. Yalnızca atıf ve gerekçe düzeltmesi; hesaplar her durumda zihinden yapılıyor, eşleme penceresi 2024–2026 kalıyor. |
+| B1–B7 | Hayır. Yalnızca 2025 S48'in sayfa görüntüsünden kontrolü ve ozmotik basınçla ilgili bir açıklama notu işe yarar (B bölümü). |
+| C2 | Bugünkü yerleşimi değiştirmez. Ama ölçüt yazılmazsa 2027'de yeni bir konu geldiğinde 0 saat / 2 saat / T arasındaki seçim keyfî kalır. Önerilen ölçüt yazılırsa hiçbir öğe yer değiştirmez. |
+| C10 (yeni) | Küçük bir fark: bağ enerjisinden tepkime ısısı tahmini 0 saatten T'ye geçer (yaklaşık yarım-bir saat). |
+| C1, C3–C9, D | Hayır. İfade, etiket ya da gösterim düzeltmesi. |
+
+Sonuç: Belge 1 ve 2'de çalışma kararını yanlış yöne götüren önemli bir hata yok. Yapılması önerilen tek kural eklemesi C2'deki ölçüt cümlesi, tek içerik düzeltmesi de C10.
 
 ---
 
@@ -67,17 +80,16 @@ Belge 2 (3b) pencereyi şöyle gerekçelendiriyor: "üç yıl aynı formattadır
 
 ---
 
-## B. Doğrulanamayan veya çelişkili kalemler
+## B. Açık kontrol notları (çalışma kararını değiştirmez)
 
-| # | İddia | Bulgu | Öneri |
-|---|---|---|---|
-| B1 | Ü7: NCERT Sınıf 11 Biyoloji Bölüm 7 (Reprint 2026-27) yalnızca 7.1 Organ and Organ System ve 7.2 Frogs içerir; dokular ayrı bölüm değil [Birincil] | Üçüncü taraf "rationalised/deleted" listeleri (CollegeDekho) Bölüm 7'den yalnızca **7.1.4 Neural Tissue, 7.3 Earthworm, 7.4 Cockroach**'u silinmiş sayıyor. Bu doğruysa epitel, bağ ve kas dokusu bölümde kalmış olmalı. Diğer hazırlık siteleri eski numaralandırmayı gösteriyor. NCERT sitesine erişilemedi. | `kebo107.pdf` içindekiler sayfasına yeniden bak. Dokular bölümdeyse Kural 2'deki "hayvan dokuları T'deki başka bir kaynaktan çalışılır" cümlesi gereksizleşir. |
-| B2 | "2026'da MUR duyurusu 30 Eylül dedi, DM 29 Eylül'ü belirledi" | UniFi: "il MUR ha comunicato con avviso del 3 luglio 2026 che la prova si terrà il 29 settembre". 30 Eylül yalnızca bazı hazırlık sitelerinde (WAU, futura) geçiyor. DM 1005 ve Catania bandosu: 29.09.2026, 13:30, 100 dakika. | İlke (DM bağlayıcıdır) doğru, ama örnek tartışmalı. Duyuru metni birincil olarak görülmeden örnek kaldırılmalı veya "bazı ikincil kaynaklar 30 Eylül yazdı" diye yumuşatılmalı. |
-| B3 | DM 1005 iç atıfları: m.2 c.2 → Allegato A; m.1 c.1 ve m.2 c.1 (tek ortak sınav); m.2–3 (tarih, biçim, puanlama); Allegato 1 p.9 f; düzeltme ilanı yalnızca Tabella A | DM gövdesi açılamadı. Tek ortak sınav ikincil kaynaklarla tutarlı (tek tarih, tek kitapçık, 60 soru, 100 dakika). 2025'teki düzeltme ilanı Unicamillus için posti tablolarıyla (DM 599 ve 600 tabloları) ilgiliydi. | Birincil kontrol listesine al. |
-| B4 | D.Lgs. 71/2025 m.8 c.3 ("…non si applicano ai corsi di studio erogati in lingua inglese…") [Birincil] | İkincil kaynaklar (WAU'nun IMAT 2026 rehberi) IMAT'ın dışarıda kalmasını m.8 c.3'e bağlıyor. Camera VII. Komisyonu'nun 7.5.2025 görüşü, taslaktaki bu fıkranın yeniden düşünülmesini istemişti. GU n.112 (16.5.2025) metni açılamadı. | İçerik tutarlı; birincil statü kullanıcının kendi okumasına dayanıyor. |
-| B5 | Dir. 57/2010, Scienze integrate (Chimica): "proprietà colligative" [İkincil] | Okul programları birinci iki yılın Scienze integrate (Chimica) dersinde "proprietà colligative" sayıyor. Direttiva metni (Allegato A.2) açılamadı. | Statü İkincil kalmalı; belge zaten koşullu işaretlemiş. |
-| B6 | D.P.R. 87/2010, D.Lgs. 61/2017 m.13 c.1 ile 2022/23'ten itibaren yürürlükten kalktı [Birincil] | Arama madde metnini getirmedi. | Değişiklik önerilmiyor; birincil okumaya dayanıyor. |
-| B7 | MUR kitapçıklarındaki soru numaraları ve konuları | Örnekleme sonuçları için F bölümüne bak. Örneklenenlerin hepsi tuttu; geri kalanları burada açılamadı. | — |
+İlk sürümde bu bölüm "doğrulanamayan veya çelişkili kalemler" tablosuydu. Karar etkisi açısından yeniden değerlendirilince hiçbir kalemin kapsam, derinlik ya da saat kararını değiştirmediği görüldü. Bu yüzden bölüm kısa notlara indirildi. B2'deki itiraz ise geri çekildi: belge haklı.
+
+- **B1, NCERT Ü7:** Karar etkisi yok. "I tessuti animali" Allegato A'da adıyla geçtiği için hayvan dokuları her durumda kapsamda ve T derinliğinde çalışılıyor. Belirsizlik yalnızca NCERT'in bunun için ek kaynak olup olmayacağıyla ilgili. Belgedeki numaralandırma (7.2 Frogs) birincil okumayla tutarlı. Asıl kontrol edilmesi gereken şey, T'nin (K1+K5+K4) epitel, bağ, kas ve sinir dokusunu kapsaması.
+- **B2, 30 Eylül → 29 Eylül:** Belge 1 doğru, ilk sürümdeki itiraz geri çekildi. MUR'un 3 Temmuz 2026 duyurusu 30 Eylül diyordu; MUR 29 Temmuz 2026 tarihli bir errata corrige ile tarihi 29 Eylül'e çekti. UniFi sayfası düzeltmeden sonra güncellendiği için 29 Eylül diyor. İstersen belgeye "(29.7.2026 errata ile düzeltildi, DM 1005 kesinleştirdi)" eklenebilir.
+- **B3, DM iç atıfları:** Karar etkisi yok. "Düzeltme ilanı yalnızca sınav merkezlerini (Tabella A) ilgilendirir" iddiası doğrulandı. MUR'un 26.8.2026 tarihli duyurusu, Firenze Üniversitesi'nin Tabella A'ya yanlışlıkla eklenmediğini bildirip onu sınav merkezi olarak ekliyor. Madde ve fıkra numaraları birincil metinle bir kez eşleştirilebilir.
+- **B4 ve B6 (D.Lgs. 71/2025 m.8 c.3; D.P.R. 87/2010'un kalkması):** Karar etkisi yok. IMAT, D.Lgs. 71/2025'ten sonra 2025'te ve 2026'da yapıldı. Mesleki enstitü ayağına bağlı bir sınır ya da 3c dayanağı da yok.
+- **B5, ozmotik basınç:** Etki düşük; belge zaten koşullu işaretlemiş. Ordinario OSA'da (s.345–346) "colligative" ve "osmotica" geçmiyor. Dir. 57/2010'daki ifade doğrulanamazsa yalnızca nicel π = iMRT parçası (yaklaşık 1 saat) etkilenir. Belgeye şu açıklama eklenmeli: osmoz, tonisite ve parçacık sayısıyla ozmolarite karşılaştırması "il trasporto attraverso la membrana", "Omeostasi" ve "i principali modi di esprimere la concentrazione" üzerinden zaten kapsamda. 3c'deki "nicel ozmotik basınç M3 kimyasında yoktur" cümlesi geniş okunursa bu sorular da yanlışlıkla dışarıda bırakılabilir.
+- **B7, kitapçık numaraları:** Örneklenen beş kanıt kalemi tuttu. Değeri olan tek kontrol 2025 S48: belgeye göre kök işareti metin katmanında düşüyor. Kök yalnızca 2'nin üzerindeyse (√2·x < 1 + x) soru köklü eşitsizlik değil, kapsamdaki bir doğrusal eşitsizliktir; köklü denklemler de T derinliğinden en fazla 1 saatlik tanımaya iner. Sayfa görüntüsüne bir kez bakmak yeterli. Bu konu için $C_{max}$'ta ayrıca bir derinlik tavanı var: s.338 "L'acquisizione dei metodi di calcolo dei radicali non sarà accompagnata da eccessivi tecnicismi manipolatori".
 
 ---
 
@@ -90,7 +102,7 @@ Hız toplama ($v' = v - u$) zaten Galile hız dönüşümüdür. Ölçüt yazıl
 - **Kapsam:** göreli hız hesabı (vektör çıkarma). Dayanak: "Descrizione del moto", "Vettori e operazioni sui vettori".
 - **Sınır:** eylemsiz ve eylemsiz olmayan çerçeveler, Galile dönüşümünün geçerlik alanı. Dayanak: s.343 "sistemi di riferimento inerziali e non inerziali e del principio di relatività di Galilei".
 
-Bu ayrım yazılmazsa "Kalan risk" bölümündeki "Bu konuların hiçbiri sonraki yıllarda tekrar etmedi" cümlesi savunulamaz, çünkü göreli hareket 2025'te ve 2026'da geldi.
+Karar etkisi yok: göreli hız kapsamda, Galile dönüşümü kanıtlı sınır olduğu için ikisi de T derinliğinde çalışılıyor. Belge bu ayrımı zaten örtük olarak yapıyor; önerilen şey yalnızca tek cümleyle yazılması. Belgenin kendi sınıflandırmasına göre 2025 S55 kapsam olduğu için "Kalan risk" bölümündeki "hiçbiri tekrar etmedi" cümlesi de doğru kalıyor.
 
 ### C2. "Esempi di forze" açık bir liste; evrensel kütleçekimi dışlanmış
 
@@ -102,7 +114,7 @@ Belge 1 "Esempi di forze: la forza peso, la forza elastica, l'attrito…" ifades
 - **(a)** Ölçütü yaz: "$C_{max}$'ta ayrı bir OSA başlığı olan ve Allegato A'da hiç karşılığı bulunmayan yeni bir yasa veya olgu dışlanandır; Allegato A'daki bir terimin içinde kalan genişleme sınırdır." Bu ölçütle kütleçekimi dışlanan kalır (s.343'te ayrı başlık: "gravitazione, dalle leggi di Keplero alla sintesi newtoniana"). "Esempi di forze"ye de şu not eklenir: "açık liste yeni bir kuvvet yasası getirmez".
 - **(b)** Ters kare yasası ve $g(h)$'yi kanıtlı sınır öğesi yap (2025 S58; dayanak "la forza peso"); Kepler yasaları dışlanan kalır.
 
-Pratik fark küçük: (a)'da en fazla 2 saatlik tanıma katmanı, (b)'de T derinliği. Ama hangisi seçilirse seçilsin, kural yazılmalı. Yazılmazsa aynı soru dalgalar (2026 S54), Lorentz kuvveti ve üre döngüsü için de tekrar açılır.
+Pratik fark küçük: (a)'da en fazla 2 saatlik tanıma katmanı, (b)'de T derinliği. **Önerim (a):** Bugünkü yerleşimi hiç değiştirmez. Lorentz ve üre döngüsü sınırda kalır; dalgalar ("Si inizierà lo studio dei fenomeni ondulatori", ayrı başlık) ve kinetik teori dışlananda kalır. (b) türü bir ölçüt ("adı geçen bir terimin genişlemesi sınırdır") ise dalgaları "moto armonico" üzerinden T'ye çekebilir ve bütçeyi belirgin büyütür. Kural yazılmazsa açık liste cümlesi "kütleçekimi de bir kuvvet örneği" okumasına kapı açar ve 2027'de yeni bir konu geldiğinde yerleştirme keyfî kalır.
 
 ### C3. 2024 S50: aynı soru hem kapsam hem sınır kanıtı
 
@@ -115,7 +127,7 @@ Pratik fark küçük: (a)'da en fazla 2 saatlik tanıma katmanı, (b)'de T derin
 
 ### C4. |x|: denklemler kapsam, fonksiyon sınır
 
-"|x| içeren birinci derece denklem ve eşitsizlikler … kapsamdadır [Yorum: doğrudan uygulama]" deniyor. Ama Allegato A'daki dayanak ("Equazioni e disequazioni algebriche di primo e secondo grado") mutlak değeri içermiyor. Mutlak değer kavramı ancak "Ordinamento e confronto" veya reel sayılar üzerinden gelir. Aynı kavramın fonksiyon hâli ise sınırda (s.339 "f(x) = |x|"). Öneri: ikisini tek öğede birleştir ve dayanağı açıkça yaz.
+"|x| içeren birinci derece denklem ve eşitsizlikler … kapsamdadır [Yorum: doğrudan uygulama]" deniyor. Ama Allegato A'daki dayanak ("Equazioni e disequazioni algebriche di primo e secondo grado") mutlak değeri içermiyor. Mutlak değer kavramı ancak "Ordinamento e confronto" veya reel sayılar üzerinden gelir. Aynı kavramın fonksiyon hâli ise sınırda (s.339 "f(x) = |x|"). Bugünkü ayrım savunulabilir: denklemi çözmek durum ayırmaktır (kapsam), |x|'i fonksiyon ve grafik olarak işlemek ise s.339'da ayrıca sayılan yeni bir temsildir (sınır). Öneri: ayrımı koru ve kapsam satırına dayanak olarak "Ordinamento e confronto; numeri reali" yaz. İkisini sınır yönünde birleştirme; o zaman |x| içeren denklemler T derinliğinden en fazla 1 saatlik tanımaya düşer.
 
 ### C5. Kütlenin korunumu ve sabit oranlar: kanıt etiketi
 
@@ -138,7 +150,20 @@ $M_{teori} = M_3 \cup ((\mathrm{cl}_r(M_3) \cup E_{3b}) \cap C_{max})$
 
 ### C9. Kalan risk
 
-Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'te 5, 2026'da 2, yani "yılda 2–5". "2'si dışlanan fizik bloğundan (s.343)" **✓** (kütleçekimi ve dalgalar ikisi de s.343'te). Ancak "hiçbiri tekrar etmedi" cümlesi C1'e, toplam sayı C3'e bağlı.
+Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'te 5, 2026'da 2, yani "yılda 2–5". "2'si dışlanan fizik bloğundan (s.343)" **✓** (kütleçekimi ve dalgalar ikisi de s.343'te). C3 kabul edilirse toplam 8, aralık "yılda 1–5" olur. Kural 3b'nin saat hükümleri bu sayıya bağlı olmadığı için karar etkisi yok.
+
+### C10. Bağ enerjisinden tepkime ısısı: kapsam mı, dışlanan mı? (11 Ekim 2026 eki)
+
+Bu bulgu, raporun kaçırdığı hataları arayan taramada çıktı ve onu çürütmeye çalışan doğrulamadan geçti. Belge 1 "ΔH ve ΔG hesapları"nı dışlanan listesine koyuyor (s.346; yalnızca Kural 3c ile) ve ekzotermik/endotermik kavramını "Energia di legame" ile kapsamda okuyor. Aynı belgeye göre ise "dayanağın yeni kavram gerektirmeyen doğrudan uygulamaları sınır değil, kapsamdır". Bağ enerjilerinden tepkime enerjisi tahmini (Σ kırılan − Σ oluşan), adıyla geçen "Energia di legame"nin sayısal hâli; yeni bir kavram gerektirmiyor. Böylece iki hüküm aynı hesaba hem 0 saat hem T derinliği veriyor.
+
+Kalorimetri tarafında çelişki yok: q = mcΔT fizikte ("Concetto di calore e calorimetria", "Capacità termica e calore specifico") zaten T derinliğinde, mole bölmek de "concetto di mole e sua applicazione" kapsamında.
+
+Karar etkisi küçük: yarım-bir saatlik bir hesap türü, 2024–2026'da kanıtı yok. **Önerilen satır:** "Bağ enerjilerinden tepkime enerjisi tahmini kapsamdadır [Yorum: 'Energia di legame'in doğrudan uygulaması]; Hess yasası, oluşum entalpileri ve ΔG hesabı dışlanandır (Kural 3c hariç)."
+
+Aynı taramanın öne sürdüğü üç bulgu daha doğrulamada çürüdü; belge bu durumları zaten karşılıyor:
+- **Bitki yaşam döngüleri:** "Cicli vitali" ve "Riproduzione sessuata ed asessuata" Allegato A'da adıyla geçiyor ve Sorumluluk özetinin 1. adımı önce uygulanıyor. Bu yüzden bitki yaşam döngüleri dışlanmış sayılmıyor.
+- **Polinom bölmesi ve Ruffini:** "Espressioni algebriche, polinomi" ve "scomposizione in fattori dei polinomi"nin doğrudan aracı olduğu için kapsamda.
+- **Radyoaktivite:** C_max'ta görelilik bloğunun içinde (s.343). C2(a) ölçütüyle dışlanan kalıyor.
 
 ---
 
@@ -174,7 +199,7 @@ Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'
 | D.M. 1005/2026, 6 Ağustos 2026 | ✓ | Unict, UniFi, Catania bandoları ve hazırlık siteleri |
 | MUR'da 7 Ağustos 2026'da yayımlandı | ~ | PDF ModDate 7.8.2026 ile tutarlı; MUR sayfası açılamadı |
 | m.2 c.2 Allegato A'ya atıf yapar | ? | B3 |
-| Düzeltme ilanı yalnızca Tabella A'yı etkiler | ? | B3 |
+| Düzeltme ilanı yalnızca Tabella A'yı etkiler | ✓ | MUR'un 26.8.2026 tarihli duyurusu Firenze Üniversitesi'ni Tabella A'ya sınav merkezi olarak ekliyor (B3) |
 | Ek dosya = DM 1005 Allegato A; gövde 1133/2024'te de aynı | ~ | Meta veri 2025 kökenini destekliyor; 2024 karşılaştırması burada yapılamadı |
 | LM-42 D.M. 599/2025 ile girdi | ✓ | DM 599 (7.8.2025) başlığı "…e Medicina veterinaria in lingua inglese"; UniBo 2025/26 bandosu "Classe LM-42" |
 | Ayırt edici iz: "Potenze con esponente intero, razionale)" | ✓ | s.3, açılış parantezi yok |
@@ -189,7 +214,7 @@ Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'
 | Her yıl yeni DM: 1133 / 599 / 1005, üçü Ağustos başında | ✓ | 6.8.2024 / 7.8.2025 / 6.8.2026 |
 | 2027 formatı ve içeriği [Varsayım] | ✓ | Etiket doğru |
 | DM 29 Eylül'ü belirledi | ✓ | 29.09.2026, 13:30, 100 dakika |
-| MUR duyurusu 30 Eylül dedi | ? | B2: UniFi'ye göre 3.7.2026 duyurusu 29 Eylül dedi |
+| MUR duyurusu 30 Eylül dedi | ✓ | 3.7.2026 duyurusu 30 Eylül diyordu; 29.7.2026 errata corrige 29 Eylül'e çekti (B2) |
 
 ### Kapsam ve işlev
 
@@ -222,7 +247,7 @@ Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'
 | 1–5. adımların sırası | ✓ | Belge 2 Kural 1–3 ile tutarlı |
 | Ozmotik basınç yalnızca 3c ile girer | ✓ | Belge 2 3c ile tutarlı |
 | 9 soru (7 sınır, 2 dışlanan), yılda 2–5 | ✓ | Aritmetik doğru; C3'e bağlı |
-| "Hiçbiri tekrar etmedi" | ~ | C1 |
+| "Hiçbiri tekrar etmedi" | ✓ | Belgenin kendi sınıflandırmasıyla doğru; 2025 S55 kapsamda (C1) |
 
 ### Daraltma araçları
 
@@ -286,7 +311,7 @@ Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'
 | Planck (s.343); fotoelektrik, enerji düzeyleri, De Broglie, belirsizlik (s.344) | ✓ | "atomik spektrum" adıyla geçmez, "livelli energetici discreti" geçer |
 | Astrofizik, parçacık fiziği, yarı iletkenler | ✓ | s.344 |
 | Elektrokimya | ✓ | s.346 "cenni di elettrochimica" |
-| ΔH ve ΔG | ✓ | s.346 "scambi energetici … aspetti termodinamici" (adıyla geçmez) |
+| ΔH ve ΔG | ✓ / ~ | s.346 "scambi energetici … aspetti termodinamici" (adıyla geçmez). Bağ enerjisinden tahmin ayrıca ele alınmalı (C10) |
 | Biyomateryaller | ✓ | s.346 |
 | Ekoloji | ✓ | s.345 "rapporti organismi-ambiente", s.346 "ecologia" |
 | Sistematik ve biyoçeşitlilik | ✓ | s.345 |
@@ -346,7 +371,7 @@ Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'
 | Biyoloji hedefleri paragraf düzeyinde | ✓ | s.345–346 |
 | Formül ve derinlik kuralı | ~ | C8 |
 | Kural 2a, "elementare" | ~ | C7 |
-| Ü7 / NCERT | ? | B1 |
+| Ü7 / NCERT | ? | B1; karar etkisi yok |
 | Derinlik çıpaları | ✓ / ? | 2024 S58 (elektron, manyetik alan) ve 2026'da hidrostatik basınç sorusu teyit edildi; diğerleri görülemedi |
 | 3a: ekoloji örneği (s.345) | ✓ | "rapporti organismi-ambiente" |
 | 3b kanıt listesi | ✓ (örneklem) | 2026 S54 koherens (şık A: "faz farkı sabit") ✓; 2026 S49 Galile ✓; 2025 S58 kütleçekimi ($g/16$, $h = 3R$) ✓; 2025 S41 heterojen denge ✓; 2024 S58 ✓; diğerleri ? |
@@ -370,6 +395,7 @@ Web (arama sonuçlarından; resmî sitelere doğrudan erişim engelliydi):
 - MUR, [atti: DM 599 ve 600 del 07-08-2025](https://www.mur.gov.it/en/node/12?page=22); [DM 599 ve 600 tablolarının düzeltme ilanı](https://www.mur.gov.it/sites/default/files/2025-08/Avviso%20di%20rettifica%20tabelle%20DM%20599%20e%20600%20per%20Unicamillus%20%28002%29.pdf)
 - UniBo, [Bando Medicine and Surgery + Veterinary Medicine 2025-2026](https://corsi.unibo.it/s/976/p/en/programme-enrolment-new-1/bando-medicine-and-surgery-veterinary-medicine-2025-2026.pdf/@@download/file/BANDO%20MEDICINE%20AND%20SURGERY%20+%20VETERINARY%20MEDICINE%202025-2026%20.pdf)
 - UniFi, [IMAT 2026 duyurusu (MUR avviso 3 luglio 2026)](https://www.unifi.it/it/node/12261)
+- MUR, [Errata corrige IMAT, 29.7.2026 (30 → 29 Eylül)](https://www.mur.gov.it/sites/default/files/2026-07/Errata%20corrige%20Imat%20-signed.pdf); [Avviso del 26.8.2026 (Tabella A, Firenze)](https://www.mur.gov.it/sites/default/files/2026-08/Avviso%20del%2026-8-2026.pdf)
 - Catania IMAT 2026 bandosu ([LOCOMOTIVE kopyası](https://thisislocomotive.com/wp-content/uploads/2026/09/Catania-IMAT-2026-LOCOMOTIVE.pdf))
 - UniMe, [Allegato B – Disciplinare d'aula IMAT](https://www.unime.it/sites/default/files/2026-08/Allegato%20B%20-%20Disciplinare%20d%E2%80%99aula%20IMAT%20(1)_1.pdf); UniPV, [Bando Medicine and Surgery 2025-2026](https://portale.unipv.it/sites/default/files/2025-08/Bando%20di%20ammissione%20Medicine%20and%20Surgery%20-%20a.a.%202025-2026_0.pdf)
 - [L. 264/1999 (Parlamento)](https://www.parlamento.it/parlam/leggi/99264l.htm); [Garante Privacy, 20.2.2014 görüşü (art. 4 commi 1 e 1-bis)](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/2972695); [MIUR, İngilizce Tıp 2017-2018 DM'si](https://www.miur.gov.it/web/guest/-/modalita-e-contenuti-della-prova-di-ammissione-al-corso-di-laurea-magistrale-a-ciclo-unico-in-medicina-e-chirurgia-in-lingua-inglese-a-a-2017-2018)
