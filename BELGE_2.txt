@@ -1,0 +1,211 @@
+Belge 2: Operasyonel Tavan ve Epistemolojik Matris (Cmax)
+=========================================================
+
+Sürüm: D.M. 1005/2026'ya göre (11 Ekim 2026).
+
+Tanımlanan dosya: Indicazioni nazionali (D.I. 211/2010), Allegato F, liceo scientifico ordinario, s.337–346.
+- Bölümler: Matematik s.337–341, Fizik s.342–344, Doğa Bilimleri s.344–346.
+
+Bu sayfalar Cmax'ın lise ayağının eldeki kısmıdır; öteki okul türleri aşağıdaki tabloda belge adıyla tanımlanır.
+
+Etiketler: Belge 1'deki statü ve etiket tanımları geçerlidir.
+
+Cmax'ın rolü. Cmax, Allegato A'nın andığı okul müfredatlarının birleşimidir ve yalnızca dış çit olarak kullanılır. Allegato A birinci ve en verimli kaynaktır; Cmax sorumluluk eklemez. 2027 mezunları aşağıdaki yürürlükteki metinlerle okudu; yeni lise ve teknik reformları onları kapsamaz. M₁(·), ilgili okul türünün müfredat belgelerini gösterir.
+
+- Liseler
+  Lojistik donanım: D.P.R. 15 marzo 2010, n. 89: lise türleri, PECUP ve yıllık ders saatleri ("orario annuale"); OSA içermez. Indicazioni'nin dayanağı m.13 c.10 lett. a)'dır.
+  İşletim sistemi: D.I. 7 ottobre 2010, n. 211 (Indicazioni nazionali, disiplin bazlı OSA); liceo scientifico ve "scienze applicate" seçeneği Allegato F'de. Eldeki s.337–346, ordinario'nun Matematik, Fizik ve Doğa Bilimleri kısımlarıdır.
+  Statü ve zaman damgası: D.P.R. 89/2010 ve D.I. 211/2010: Birincil*. Yürürlükte; 2027 kohortu bu metinle okudu. Yeni Indicazioni (schema di regolamento; CSPI görüşü 14.07.2026; başlangıç 2027/28 birinci sınıflar): İkincil; 2027 kohortunu etkilemez.
+- Liceo sportivo
+  Lojistik donanım: D.P.R. 5 marzo 2013, n. 52
+  İşletim sistemi: Aynı D.P.R.'nin Allegato A'sı (m.2 c.4; OSA Allegato A'dadır)
+  Statü ve zaman damgası: m.2 c.4: Birincil*. Allegato A'nın Matematik, Fizik ve Fen metni: Doğrulanmalı. 2027 mezunları var.
+- Teknik enstitüler
+  Lojistik donanım: D.P.R. 15 marzo 2010, n. 88
+  İşletim sistemi: Direttiva n. 57 del 15 luglio 2010 (Linee guida, ilk iki yıl); Direttiva n. 4 del 16 gennaio 2012 (Linee guida, son üç yıl); Direttiva n. 69 del 1 agosto 2012 (opzioni için son üç yılın Linee guida'sı)
+  Statü ve zaman damgası: Varlık ve rol: İkincil. İçerik: Dir. 57/2010 İkincil; Dir. 4/2012 ve Dir. 69/2012 metinleri okunmadı (Doğrulanmalı). 2027 mezunları bu metinlerle okudu. Reform D.M. 19 febbraio 2026, n. 29: İkincil; 2026/27'den itibaren birinci sınıflara uygulanır, ders saatlerini, profilleri ve öğrenme sonuçlarını belirler (adı Linee guida değildir). Beşinci sınıflara 2030/31'de ulaşır: Çıkarım.
+- Mesleki enstitüler
+  Lojistik donanım: D.Lgs. 13 aprile 2017, n. 61
+  İşletim sistemi: D.I. 24 maggio 2018, n. 92 (çıkış profilleri ve öğrenme çıktıları); D.M. 23 agosto 2019, n. 766 (Linee guida)
+  Statü ve zaman damgası: D.P.R. 87/2010, D.Lgs. 61/2017 m.13 c.1 ile 2022/23'ten itibaren yürürlükten kalktı: Birincil*. 2027 mezunları tamamen yeni düzende. D.I. 92/2018 ve D.M. 766/2019: varlık ve rol İkincil. Allegato A'nın andığı Linee guida D.M. 766/2019 olarak okunur [Yorum]; içerik tanımı D.I. 92/2018'in ve D.M. 766/2019'un eklerindedir.
+
+Yasal dayanak
+-------------
+
+[Statü: İkincil]
+
+- Programlar koşulu. L. 264/1999 m.4 c.1'in birinci cümlesi kabulü "prove di cultura generale, sulla base dei programmi della scuola secondaria superiore, e di accertamento della predisposizione per le discipline oggetto dei corsi medesimi" koşuluna bağlar.
+- D.L. 19/2024 m.18 c.3-ter. L. 56/2024 ile dönüşümde eklendi; c.1 birinci cümlesindeki bando süresini 60 günden 30 güne indirdi. Alıntılanan ifadeyi etkilemez.
+- Yöntem ve içerik yetkisi. m.4 c.1'in ikinci cümlesindedir. Yabancı dildeki dersler için c.1-bis geçerlidir; bu dersler için sınav o dilde hazırlanır.
+- "Programlar" bağlayıcısının okunuşu. Bu bağlayıcının yalnızca genel kültür bileşenine iliştirildiği okuması bir yorumdur. Virgül yapısı bu okumayı destekler. Ama Allegato A'nın ikinci paragrafı bütün beceri ve bilgileri okul hazırlığına bağlar.
+
+Karakteristik
+-------------
+
+- Yorumsal üst sınırdır, mutlak değildir. Normatif dayanağı Allegato A'nın ikinci paragrafı ("Le capacità e le conoscenze richieste rispondono alla preparazione promossa dalle istituzioni scolastiche…") ve L. 264/1999 m.4 c.1'dir. Bu bir uyumluluk beyanıdır. Soru yazarını hukuken bağlayan bir tavan olduğu gösterilemez; ancak yasa en azından genel kültür bileşenini okul programlarına bağlar.
+- Indicazioni bir öğrenme hedefleri belgesidir. Ayrıntılı bir program değildir. s.338 "pochi concetti e metodi fondamentali, acquisiti in profondità" der; s.342, s.345 ve s.346 yöntemi ve sırayı öğretmene bırakır.
+- Statü etiketleri belgelerin varlığı ve içeriği için geçerlidir, tavan yorumu için değil.
+- Açık kalemler. Tablodaki İkincil ve Doğrulanmalı kalemler bugün listelenmiş öğeler için sorumluluk kararlarını etkilemez. Listedeki sınır ve 3c dayanaklarının neredeyse hepsi ekteki s.337–346'dadır. İstisnalar koligatif özellikler ve ozmotik basınçtır: bunların dayanağı teknik enstitü belgesindedir ("yalnızca birleşimde"). Normalitenin dayanağı henüz bulunmadı. Listede olmayan bir konunun sınır ya da 3c dayanağı teknik ve mesleki belgelerden gelebilir; o zaman o belgeler de kontrol edilir.
+- Dış çitin kaynağı. Allegato A liseler için Indicazioni'yi, teknik ve mesleki enstitüler için Linee guida'yı açıkça sayar. "Soprattutto in vista degli Esami di Stato" kapsamı genişletmez; hazırlığı bitirme sınavına odaklar.
+- Bileşim.
+  - Cmax = M₁(Licei) ∪ M₁(Tecnici) ∪ M₁(Professionali).
+  - Licei: 2010 Indicazioni'sindeki bütün lise türleri ve liceo sportivo.
+  - Allegato A üç okul türünü birlikte andığı için tek bir tür ya da dal seçmek tutarsız olur.
+- Kontrol sırası. Birleşim çok geniştir. Dış çit önce liceo scientifico OSA'larıyla (ordinario, scienze applicate, sportivo) kontrol edilir.
+  - Kimya kalemlerinde scienze applicate'in kimya paragraflarına fiilen bakılır. Bu seçenekte kimya ordinario'dan geniştir: tam elektrokimya, ikinci iki yılda temel organik kimya, beşinci yılda malzeme bilimi.
+  - Liceo artistico'nun "Chimica dei materiali" OSA'sı da lise ayağındadır.
+  - Öğe yalnızca teknik ya da mesleki belgede varsa "yalnızca birleşimde" diye işaretlenir.
+- Kullanım. Cmax çalışılacak konuları genişletmez; yalnızca üst sınır koyar ve 3b ile 3c'den gelen öğelere dayanak sağlar. Derinliği kalibre etmez, bu T'nin işidir. Kaynak yasağı da değildir: üniversite düzeyinde bir kitap (ör. K7) belli bir konu için kullanılabilir, yeter ki çalışılan derinlik Cmax içinde kalsın.
+- Biyoloji. s.345–346'daki biyoloji hedefleri paragraf düzeyindedir ve derinliği ölçülebilir biçimde sınırlamaz; biyolojide derinliği T belirler (Kural 2c).
+
+Teorik matris ve operasyonel kurallar
+-------------------------------------
+
+Matris, M₃ (içerik filtresi) ve Cmax (dış çit) üzerine kuruludur; araçsal bağımlılık kapanışıyla eksik kapsama riskini azaltır:
+
+M_teori = M₃⁺ ∪ ((cl_r^C(M₃⁺) ∪ E3b) ∩ Cmax)
+
+Kümeler:
+- M₃: Allegato A'da adı geçen konular, bunların doğrudan uygulamaları ve [Yorum] ile kapsamda okunanlar (Belge 1). Saf Allegato A kümesidir; 2027 farkı bu küme üzerinden alınır.
+- M₃⁺ = M₃ ∪ S_kanıtlı: S_kanıtlı, kanıtlı sınır öğelerinin kanıtın gerektirdiği alt kavramlarıdır. Kural 3a, Cmax'ta da geçen doğrudan uygulamaları dışlamaz (ör. s.342 "equilibrio dei corpi").
+- cl_r^C: r(j,k) bağımlılık ilişkisine göre Cmax içinde hesaplanan kapanış. M₃⁺'yı içeren en küçük X kümesidir: j ∈ X, r(j,k) ve k ∈ Cmax ise k ∈ X. Uygulamada 3c tek adımlıdır.
+- E3b: Kural 3b ile açılan tanıma katmanları; hangi öğelerin alacağı ve süreleri yalnızca Kural 3b'de yazılıdır.
+- T (doğrulanmış ders kitabı standardı) = K1 + K5 + K4.
+- Dış tanımlar: K-kodları, Yardımcı ve B satırı bu metnin dışında tanımlıdır.
+
+Formül yalnızca hangi öğelerin matrise girdiğini belirler. Tanıma katmanları E3b üzerinden, 3c öğeleri cl_r^C üzerinden girer.
+
+Derinlik (her öğe için tek; öncelik sırası):
+1. Alt sınır: derinlik çıpası, yani kanıt ya da çıpa sorusunun gerektirdiği düzey.
+2. Üst sınır: Kural 2a niteleyicisi ile d_Cmax'ın küçüğü.
+3. Arada: d_T (T ve Yardımcının B notları). Cmax'ta karşılığı olmayan M₃ öğesinde d = max(çıpa, min(d_T, niteleyici)) olur; Cmax yalnızca karşılığı olduğu yerde sınırlar.
+4. Çıpa üst sınırı aşarsa çıpa geçerlidir. Niteleyicinin sınavdaki erimi çıpaya göre yeniden okunur (ör. "semplici reazioni" → disproporsiyonlaşma).
+5. Kanıtlı sınır alt kavramı: derinliği kanıt sorusunun gerektirdiği düzey ile T arasındadır; dayanağın niteleyicisi üst sınırdır.
+6. 3c öğesi: j'nin gerektirdiği düzeydedir. Bir öğe hem 3b hem 3c ile giriyorsa daha derin olan geçerlidir.
+
+Kural 1 — Kapsam ve tavan.
+- Çekirdek M₃'tür; Cmax = M₁(Licei) ∪ M₁(Tecnici) ∪ M₁(Professionali).
+- M₃'teki bir konu Cmax yüzünden matristen çıkmaz; formüldeki "M₃⁺ ∪" bunu ifade eder. Bu, açıkça yazılı, [Yorum] ile okunan ve kanıtla giren konuların hepsi için geçerlidir. Cmax bu konularda yalnızca derinliği sınırlar. Karşılığı bulunamazsa derinliği Allegato A ifadesi ve T belirler.
+  - T bir konuyu işlemiyorsa (ör. Teknik birim sistemi) derinlik Allegato A ifadesinin doğrudan okunuşudur: tanım, birimler ve dönüşüm.
+- Tanıma katmanları ve 3c öğeleri Cmax'ta dayanağı yoksa matrise girmez; formüldeki "∩ Cmax" bunu ifade eder. Kanıtlı sınır alt kavramları M₃⁺ üzerinden girer; her biri Sınır listesinde bir Cmax sayfasına dayandığı için Cmax koşulu zaten sağlanır.
+
+Kural 2 — Derinlik. Kapsam ve derinlik ayrı eksenlerdir: b) kapsamı daraltır, a) ve c) derinliği belirler.
+- a) Derinlik niteleyicisi varsa üst sınırdır. Liste ifade bazlıdır (Belge 1, Daraltma 1): "Cenni di…", "Fondamenti di…", "Elementi di…", "calcoli stechiometrici elementari", "bilanciamento di semplici reazioni", "nozioni fondamentali sulle funzioni", "e loro valori notevoli".
+  - "elementare", "elemento" ya da "fondamentale" bir teknik terimin parçasıysa niteleyici değildir; bir işlemi ya da bilgiyi nitelediğinde niteleyicidir.
+  - Niteleyici ile çıpa çatışırsa yukarıdaki öncelik sırası uygulanır.
+- b) Kapsam belirteci varsa kapsam ona göre daralır; b) derinlik vermez. Belirteç örnekleri: "principali", "nell'uomo", "I tessuti animali", "in soluzione acquosa", kapalı sayımlar. Belirteçle kesilen ama aynı başlığa dayanan konu sınırdır.
+- c) Derinlik niteleyicisi yoksa derinliği T belirler, Cmax sınırlar. Yardımcının B satırı başına verdiği 1–3 derinlik notları T'yi kontrol eder. Zayıf işaretler ("concetto di…", "nozione di…") bu dalda kalır.
+- Biyoloji: niteleyici olmadığı için derinlik daima c) dalındadır; kapsam b) ile daralır.
+  - Hem biyolojide hem kimyada başlığı olan bir öğede (ör. enzimler) kimya niteleyicisi yalnızca kimya başlığındaki kullanımı sınırlar.
+- Ü7 (NCERT Sınıf 11 Biyoloji, Bölüm 7; güncel baskı Reprint 2026-27) [Statü: Birincil*]:
+  - Bu baskıda yalnızca 7.1 Organ and Organ System ve 7.2 Frogs vardır. Rasyonelleştirmede 7.1 Animal Tissue'nun tamamı (7.1.1–7.1.4), 7.3 Earthworm ve 7.4 Cockroach silindi.
+  - Dokular ayrı bölüm olarak yoktur, yalnızca geçerken anılır ("epithelial, connective, muscular and neural"). Kurbağa genel bilgi düzeyinde okunur. Hayvan dokuları T'deki başka bir kaynaktan çalışılır.
+  - Eski baskı kullanılıyorsa: 7.1 Animal Tissue "I tessuti animali" nedeniyle atlanmaz ve dokular için kaynak olarak kullanılabilir; toprak solucanı ve hamamböceği bölümleri atlanır.
+  - Gerekçe b) dalıdır: "nell'uomo" ile birlikte "degli animali e dell'uomo", "I tessuti animali" ve LM-42.
+- Derinlik çıpaları [Statü: Birincil — MUR kitapçıkları]. T en az bu soruların gerektirdiği düzeyi karşılamalıdır. Çıpa alt sınırdır; üst sınırı Kural 2a ve Cmax koyar, çatışmada öncelik sırası uygulanır.
+  - Kimya:
+    - zayıf asidin pH'ı Ka ve derişimden (2025 S39: Ka = 1,0×10⁻⁵, 0,001 M → pH 4);
+    - seyreltmeyle pH değişimi (2024 S46: pH 2 → 4);
+    - kısmi basınç (2024 S33);
+    - sınırlayıcı bileşen (2024 S45: 9 g C + 36 g O₂);
+    - redoks denkleştirme (2026 S34, S39, S40).
+  - Fizik:
+    - x(t) = A cos ωt'den hız (2024 S59);
+    - sürtünmeli Newton II (2025 S59);
+    - seri-paralel eşdeğer direnç (2025 S56);
+    - Stevino ile derinlik (2026 S52).
+    - 2024 S58 çıpa değil; formül tanıma düzeyinde bir sınır kanıtıdır (Kural 3b).
+  - Matematik:
+    - sin x'e göre ikinci derece trigonometrik eşitsizlik (2025 S49: sin²x + sin x − 2 ≤ 0, her x için doğru);
+    - kesirli eşitsizlik (2024 S51; payda |x|);
+    - köklü eşitsizlik (2025 S48);
+    - iadesiz çekilişte kombinasyon (2026 S58: 7/22);
+    - teğet-kiriş açısı (2024 S52).
+  - Biyoloji:
+    - glikoliz ve Krebs ayrıntısı (2025 S11–S12);
+    - kas kasılmasının moleküler düzeyi (2025 S16–S17);
+    - kanda gaz taşınımı ve Bohr etkisi (2025 S18);
+    - yarışmalı inhibisyon (2025 S20);
+    - Rosalind Franklin'in yöntemi (2026 S29).
+
+Kural 3 — Dışlama, istisna ve bağımlılık.
+
+3a Dışlama.
+- Cmax'ta olup M₃'te olmayan ve Sınır tanımına uymayan konular ∅ ile dışlanır. Örnek liste: Belge 1, "Allegato A'da olmayan konular".
+- İstisnalar yalnızca Kural 3b ve Kural 3c ile açılır.
+- Örneğin ekoloji, s.345'te "rapporti organismi-ambiente" olarak Cmax'ta vardır ama M₃'te yoktur.
+- Dışlama beceri bileşenlerine uygulanmaz.
+
+3b Kanıt ve tanıma istisnası. Sınır ve dışlanmış öğeler, Yardımcının IMAT 2024–2026 eşlemesindeki kanıta göre ele alınır. Tanıma katmanlarının içeriği ve süreleri yalnızca burada tanımlıdır.
+
+- Kanıt ölçütü:
+  - Bir soru, bir konunun kanıtıdır ancak ve ancak çözümü o konuyu gerektiriyorsa, yani yalnızca kapsamdaki araçlarla çözülemiyorsa.
+  - Kapsamdaki araçlarla çözülebilen soru kapsamın sınav örneğidir. Örnek: 2024 S50 sıralı sayımla çözülür.
+  - Kanıt yalnızca sorunun gerektirdiği alt kavrama ve gerektirdiği düzeye uygulanır. Aynı satırın öteki alt kavramları kanıtsız sayılır.
+- Ele alınış:
+  - Kanıtlı sınır alt kavramı: Allegato A'daki dayanağının parçası sayılır ve Kural 2'deki öncelik sırasıyla T'de çalışılır.
+  - Kanıtsız sınır öğesi (3c bağımlılığı da yoksa): Sınır listesi satırı başına en fazla 1 saatlik tanıma katmanı (E3b).
+  - Kanıtlı dışlanmış öğe: kanıt satırı başına en fazla 2 saatlik tanıma katmanı (E3b).
+  - Kanıtsız dışlanmış öğe (3c bağımlılığı da yoksa): çalışılmaz (Kural 3a).
+- Tanıma katmanının içeriği: kavramın tanımı; temel formülü ya da olgusu; kapsamdaki araçlarla çözülen bir örnek soru. Türetme ve çözüm tekniği çalışılmaz.
+  - Kanıtlı dışlanmış öğede içerik, kanıt sorusunun gerektirdiği kavram ve formüldür. Örnekler: g ∝ 1/r² ve g(h) = g·R²/(R+h)²; koherensin tanımı (sabit faz farkı).
+- Süreler: "en fazla" bir tavandır. Tanıma katmanlarına plan sıkıştığında en son ayrılır, kanıta yakınlığa göre sıralanır.
+
+Eşleme penceresi.
+- Pencere 2024–2026'dır: üç yıl aynı soru dağılımıyla (4-5-23-15-13) yapıldı ve üç kitapçık birincil olarak tarandı; LM-42 2025'te eklendi. 2023 ve öncesi eşleme dışıdır.
+- Kanıt kararı yalnızca bu eşlemeye dayanır ve Allegato A merkezli ilkeyi değiştirmez.
+
+Hastalık, ilaç ve tanı çerçeveli sorular ayrı bir tıp bilgisi sorumluluğu doğurmaz:
+- Okuma sorularında cevap metindedir (2025 S1, ilaç prospektüsü; 2025 S4, kuru/prion).
+- Bilim sorularında Allegato A'daki bir konuya dayanır (2026 S31, orak hücre: "malattie ereditarie").
+
+3b kanıt listesi (MUR kitapçıklarıyla doğrulandı):
+
+- Dışlanmış, 2026 S54: Dalgaların koherensi (nitel: sabit faz farkı)
+- Dışlanmış, 2025 S58: Evrensel kütleçekimi: yüzeyden 3R yükseklikte g/16
+- Sınır, 2026 S49: Galile dönüşümlerinin geçerli olduğu göreli hareket
+- Sınır, 2025 S50: Kümelerin kartezyen çarpımı
+- Sınır, 2025 S41: Sulu çözelti dışı katı–gaz dengesi ve nitel Le Chatelier: ısı + 2FeCl₃(k) ⇌ 2FeCl₂(k) + Cl₂(g)
+- Sınır, 2025 S48: Köklü eşitsizlik √(2x) < 1 + x; çözüm x ≥ 0
+- Sınır, 2025 S25: Üre döngüsünün yeri (karaciğer) ve işlevi
+- Sınır, 2024 S58: Manyetik alanda elektron; formül tanıma düzeyinde yarıçap, periyot ve frekans
+
+- 2024 S50 (iadeli çekiliş, 49/100) listede yoktur: sıralı sayımla çözüldüğü için kapsamın sınav örneğidir.
+
+Tarama durumu:
+- 2024, 2025 ve 2026 kitapçıkları 10.10.2026'da baştan sona tarandı [Statü: Birincil].
+- 2024'te dışlanmış bir konudan ya da hastalık veya ilaç çerçeveli soru yoktur.
+
+3c Araçsal bağımlılık r(j,k).
+- Kural: M₃⁺'daki bir j hedefini çözmek için zorunlu olan ve Cmax'ta dayanağı bulunan k konusu matrise girer, yalnızca j'nin gerektirdiği derinlikte.
+- Zorunluluk testi: j'nin tipik bir sınav sorusu k olmadan çözülemiyorsa k zorunludur. Kolaylaştırıcı ama vazgeçilebilir araç zorunlu değildir.
+
+Örnekler:
+- Genetik problemleri (j) için koşullu olasılık ve binom dağılımı (k; s.341).
+  - Örnek: iki taşıyıcı ebeveynin sağlıklı çocuğunun taşıyıcı olma olasılığı 2/3'tür. Aa × Aa: P(taşıyıcı | sağlıklı) = (1/2)/(3/4).
+  - Bağımsız olaylarda çarpım kuralı zaten kapsamdadır (Belge 1).
+- Hücresel solunum (j) için serbest enerji (ΔG) ve entalpi (k; s.346).
+  - Termodinamiğin birinci ve ikinci ilkesi zaten M₃'ün Fizik bölümünde var.
+  - Sınav örneği: 2025 S30 (ekzergonik tepkimenin tanımı) ve 2024 S17 (ATP hidrolizinin ekzergonik olması). İkisi de yalnızca kavram düzeyinde; ΔG hesabı gerekmedi.
+- Zar taşınımı (j) için ozmotik basınç (k).
+  - Osmoz, tonisite ve ozmolarite karşılaştırması biyolojide "il trasporto attraverso la membrana" ve "Omeostasi" ile zaten M₃'tedir.
+  - Nicel ozmotik basınç (π = iMRT) M₃ kimyasında yoktur.
+  - Dayanak: Direttiva 57/2010, ilk iki yıl, Scienze integrate (Chimica): All. A.2 "Le soluzioni: percento in peso, molarità, molalità, proprietà colligative."; All. A.1 "…proprietà colligative delle soluzioni." [Statü: İkincil]
+  - "Pressione osmotica" adıyla geçmediği için koligatif özellik düzeyinde girer. Koligatif özelliklerin geri kalanı Sınır listesindedir.
+  - Ordinario OSA'da (s.345–346) "colligat" ya da "osmo" geçmez. Scienze applicate ve sportivo OSA'ları kontrol edilene kadar "yalnızca birleşimde" işareti koşulludur.
+- Protein yapısı ve nükleotitler (j) için tiyol, disülfit ve fosfat esteri (k). Bunlar sekiz grup dışındaki fonksiyonel gruplardır; yalnızca tanıma ve bağ türü düzeyinde girer.
+- Kendi ağırlığı olan çubuğun dengesi (j) için ağırlık merkezi (k).
+
+3d Beceri bölümleri.
+- Okuma, genel kültür ve mantık için konu listesi ve saat bütçesi bu matristen türetilmez; hazırlık deneme sorusu pratiğiyle yapılır.
+- Mantıkta araç olarak kullanılan matematik (diziler, yüzdeler, cebirsel dönüşümler, temel geometri) yalnızca sorunun gerektirdiği düzeyde çalışılır. Bu araçlar 3a'ya tabi değildir ve ayrı tanıma katmanı almaz.
+
+Güncelleme prosedürü (2027 DM'si yayımlandığında). DM'ler Ağustos başında çıkıyor; sınava yaklaşık 7–8 hafta kalıyor. Adımlar:
+1. Metni karşılaştır. 2027 Allegato A metnini bu sürümün tanımladığı 2026 metniyle satır satır karşılaştır; ayırt edici izi kontrol et. M₃ farkını al.
+2. Değişen ve silinen ifadeler. Her biri için o ifadeye dayanan kapsam satırlarını, sınır öğelerini, kanıtlı alt kavramları ve çıpaları yeniden kontrol et. Dayanağı silinen kanıtlı öğe kanıtsız sayılır ya da dışlanır.
+3. Yeni ifadeler. Her yeni ifadeyi kapsam, daraltma (belirteç, kapalı sayım, niteleyici) ya da genişletme olarak sınıfla. Sınır ve Dışlanan listelerinden kapsama geçenleri işaretle.
+4. DM maddeleri. Soru dağılımını, süreyi, puanlamayı, matematik ve fizik sırasını, sınav tarihini ve Allegato 1'i güncelle.
+5. Cmax. Allegato A'nın okul paragrafı değişirse Cmax'ı yeniden kur. 2027 kohortu için 2010 Indicazioni'si geçerli kalır.
+6. Kanıt eşlemesi. 2027 kitapçığı yayımlanınca 3b eşlemesine ekle ve "Kalan risk" sayımını güncelle.
+
+Gerekçe (kural değil): 3a aşırı kapsamayı önler; 3c eksik kapsamayı azaltır; listelerin örnek sayılması ve sınıflandırma tanımları, listede olmayan konuların sessizce düşmesini önler.
