@@ -21,8 +21,7 @@ Sorunlar dış atıflarda ve birkaç sınıflandırma kararında toplanıyor:
 1. **✗ L. 264/1999 fıkra numarası.** Sınavın yöntem ve içeriğini bakanlık kararnamesine bırakan hüküm m.4 **c.1**'in ikinci cümlesidir, c.2 değil. İngilizce dersler için **c.1-bis** de dayanaktır (A1).
 2. **✗ (büyük olasılıkla) "Hesap makinesi adıyla geçmez".** Belgenin alıntıladığı "altra strumentazione similare" ifadesi, hesap makinesini adıyla sayan bir cümlenin sonu (A2).
 3. **~ 2024–2026 eşleme penceresinin gerekçesi.** "Aynı bölüm yapısı" ayırt edici bir ölçüt değil, çünkü 2023 de 4/5/23/15/13 yapısındaydı (A3).
-4. **Sınır ile dışlananı ayıran ölçüt yazılı değil.** "Esempi di forze" açık bir liste sayılıyor ama evrensel kütleçekimi dışlanmış (C2). Bağ enerjisinden tepkime ısısı hesabı da hem doğrudan uygulama hem dışlanan "ΔH hesapları" içinde okunabiliyor (C10).
-5. **Küçük ifade sorunları:** göreli hız ve Galile (C1), 2024 S50 (C3), |x| (C4).
+4. **Küçük ifade sorunları:** "dayanak" kelimesinin iki anlamda kullanılması (C2), "ΔH hesapları" satırının geniş yazımı (C10), göreli hız ve Galile (C1), 2024 S50 (C3), |x| (C4). Bunların hiçbiri içerik hatası değil. C2 ve C10 ilk sürümde hata olarak yazılmıştı; 11 Ekim'deki yeniden okumada ikisi de geri çekildi.
 
 ### Karar etkisi özeti (11 Ekim 2026 eki)
 
@@ -32,11 +31,11 @@ Belgeler Allegato A ve Indicazioni dosyalarıyla birlikte, çalışma kararı ve
 |---|---|
 | A1, A2, A3 | Hayır. Yalnızca atıf ve gerekçe düzeltmesi; hesaplar her durumda zihinden yapılıyor, eşleme penceresi 2024–2026 kalıyor. |
 | B1–B7 | Hayır. Yalnızca 2025 S48'in sayfa görüntüsünden kontrolü ve ozmotik basınçla ilgili bir açıklama notu işe yarar (B bölümü). |
-| C2 | Bugünkü yerleşimi değiştirmez. Ama ölçüt yazılmazsa 2027'de yeni bir konu geldiğinde 0 saat / 2 saat / T arasındaki seçim keyfî kalır. Önerilen ölçüt yazılırsa hiçbir öğe yer değiştirmez. |
-| C10 (yeni) | Küçük bir fark: bağ enerjisinden tepkime ısısı tahmini 0 saatten T'ye geçer (yaklaşık yarım-bir saat). |
+| C2 | Hayır. Ölçüt belgede yazılı; ilk sürümdeki "yazılı değil" iddiası geri çekildi. |
+| C10 | Hayır. Bağ enerjisinden tepkime ısısı tahmini belgenin kendi kurallarıyla zaten kapsamda; ilk sürümdeki "0 saat" okuması geri çekildi. |
 | C1, C3–C9, D | Hayır. İfade, etiket ya da gösterim düzeltmesi. |
 
-Sonuç: Belge 1 ve 2'de çalışma kararını yanlış yöne götüren önemli bir hata yok. Yapılması önerilen tek kural eklemesi C2'deki ölçüt cümlesi, tek içerik düzeltmesi de C10.
+Sonuç: Belge 1 ve 2'de içerik hatası yok. Düzeltilmesi gereken yalnızca A1–A3'teki atıf ve gerekçe cümleleri. Geri kalan öneriler isteğe bağlı ifade netleştirmeleri.
 
 ---
 
@@ -104,17 +103,18 @@ Hız toplama ($v' = v - u$) zaten Galile hız dönüşümüdür. Ölçüt yazıl
 
 Karar etkisi yok: göreli hız kapsamda, Galile dönüşümü kanıtlı sınır olduğu için ikisi de T derinliğinde çalışılıyor. Belge bu ayrımı zaten örtük olarak yapıyor; önerilen şey yalnızca tek cümleyle yazılması. Belgenin kendi sınıflandırmasına göre 2025 S55 kapsam olduğu için "Kalan risk" bölümündeki "hiçbiri tekrar etmedi" cümlesi de doğru kalıyor.
 
-### C2. "Esempi di forze" açık bir liste; evrensel kütleçekimi dışlanmış
+### C2. Sınır ile dışlanan arasındaki ölçüt (11 Ekim'de geri çekildi)
 
-Belge 1 "Esempi di forze: la forza peso, la forza elastica, l'attrito…" ifadesini doğru biçimde açık bir örnek listesi sayıyor. Aynı belge evrensel kütleçekimini dışlıyor ve dayanağını "la forza peso" ve Newton yasaları olarak gösteriyor. Belgenin kendi tanımında sınır, "Allegato A'daki dayanağın ötesinde yeni bir kavram gerektiren konu" demek. Dışlanan öğelerde de parantez içinde Allegato A dayanağı yazılı. Dolayısıyla **sınır ile dışlananı ayıran ölçüt yazılı değil.**
+**İlk sürümdeki iddia:** ölçüt yazılı değil; evrensel kütleçekimi, açık "Esempi di forze" listesiyle çelişiyor.
 
-2025 S58'de yüzeyden 3R yükseklikte $g' = g/16$ soruluyordu. Bu, "forza peso"nun ters kare yasasıyla genişletilmesi. Belgenin tanımına göre sınır türü bir sorudur.
+**Düzeltme:** Ölçüt belgede üç yerde yazılı.
+- Tanım: "Sınır: Allegato A'daki dayanağın ötesinde yeni bir kavram gerektiren konu. Dayanağın yeni kavram gerektirmeyen doğrudan uygulamaları sınır değil, kapsamdır."
+- "Allegato A'da olmayan konular" giriş paragrafı: "Sınır listesindekiler Allegato A'daki bir ifadeye dayanır ama dayanağın ötesinde yeni bir kavram gerektirir."
+- Belge 2 Kural 3a: "$C_{max}$'ta olup $M_3$'te olmayan konular ∅ ile dışlanır."
 
-**İki tutarlı seçenek:**
-- **(a)** Ölçütü yaz: "$C_{max}$'ta ayrı bir OSA başlığı olan ve Allegato A'da hiç karşılığı bulunmayan yeni bir yasa veya olgu dışlanandır; Allegato A'daki bir terimin içinde kalan genişleme sınırdır." Bu ölçütle kütleçekimi dışlanan kalır (s.343'te ayrı başlık: "gravitazione, dalle leggi di Keplero alla sintesi newtoniana"). "Esempi di forze"ye de şu not eklenir: "açık liste yeni bir kuvvet yasası getirmez".
-- **(b)** Ters kare yasası ve $g(h)$'yi kanıtlı sınır öğesi yap (2025 S58; dayanak "la forza peso"); Kepler yasaları dışlanan kalır.
+Yani sınır öğesi Allegato A'daki belirli bir ifadenin uzantısıdır; Allegato A'da hiçbir ifadeye dayanmayan $C_{max}$ konusu ise dışlanandır. İlk sürüm, dışlananlardaki parantezleri ("'la forza peso' ve Newton yasaları var") sınırdaki "dayanak" ile aynı anlamda okudu. Bu yanlış bir okumaydı. Belge bunları "Allegato A'da **kalan** dayanaklar" diye tanımlıyor: dışlamanın ötesinde kapsamda kalan komşu konuları gösteren sınır işaretleri. Kütleçekimi $C_{max}$'ta ayrı bir blok ("Con lo studio della gravitazione, dalle leggi di Keplero alla sintesi newtoniana", s.343). Belge onu açıkça Dışlanan listesine koymuş, 2025 S58'i de 3b'de "kanıtlı dışlanmış" olarak işlemiş. Dosyalarla birlikte kullanıldığında yoruma açık bir durum yok.
 
-Pratik fark küçük: (a)'da en fazla 2 saatlik tanıma katmanı, (b)'de T derinliği. **Önerim (a):** Bugünkü yerleşimi hiç değiştirmez. Lorentz ve üre döngüsü sınırda kalır; dalgalar ("Si inizierà lo studio dei fenomeni ondulatori", ayrı başlık) ve kinetik teori dışlananda kalır. (b) türü bir ölçüt ("adı geçen bir terimin genişlemesi sınırdır") ise dalgaları "moto armonico" üzerinden T'ye çekebilir ve bütçeyi belirgin büyütür. Kural yazılmazsa açık liste cümlesi "kütleçekimi de bir kuvvet örneği" okumasına kapı açar ve 2027'de yeni bir konu geldiğinde yerleştirme keyfî kalır.
+**İsteğe bağlı ifade önerisi:** "dayanak" kelimesi hem sınırda (üzerine kurulan ifade) hem dışlananda (kapsamda kalan komşu) kullanılıyor; bu ikili kullanım ilk sürümdeki yanlış okumaya yol açtı. Dışlanan girişindeki cümle "parantez içindekiler kapsamda kalan komşu konulardır" diye yazılabilir. Karar etkisi yok.
 
 ### C3. 2024 S50: aynı soru hem kapsam hem sınır kanıtı
 
@@ -152,18 +152,23 @@ $M_{teori} = M_3 \cup ((\mathrm{cl}_r(M_3) \cup E_{3b}) \cap C_{max})$
 
 Aritmetik **✓**: 7 sınır + 2 dışlanan = 9. Yıllara göre 2024'te 2, 2025'te 5, 2026'da 2, yani "yılda 2–5". "2'si dışlanan fizik bloğundan (s.343)" **✓** (kütleçekimi ve dalgalar ikisi de s.343'te). C3 kabul edilirse toplam 8, aralık "yılda 1–5" olur. Kural 3b'nin saat hükümleri bu sayıya bağlı olmadığı için karar etkisi yok.
 
-### C10. Bağ enerjisinden tepkime ısısı: kapsam mı, dışlanan mı? (11 Ekim 2026 eki)
+### C10. Bağ enerjisinden tepkime ısısı (11 Ekim'de geri çekildi)
 
-Bu bulgu, raporun kaçırdığı hataları arayan taramada çıktı ve onu çürütmeye çalışan doğrulamadan geçti. Belge 1 "ΔH ve ΔG hesapları"nı dışlanan listesine koyuyor (s.346; yalnızca Kural 3c ile) ve ekzotermik/endotermik kavramını "Energia di legame" ile kapsamda okuyor. Aynı belgeye göre ise "dayanağın yeni kavram gerektirmeyen doğrudan uygulamaları sınır değil, kapsamdır". Bağ enerjilerinden tepkime enerjisi tahmini (Σ kırılan − Σ oluşan), adıyla geçen "Energia di legame"nin sayısal hâli; yeni bir kavram gerektirmiyor. Böylece iki hüküm aynı hesaba hem 0 saat hem T derinliği veriyor.
+**İlk sürümdeki iddia:** "ΔH ve ΔG hesapları" dışlandığı için bağ enerjisinden tepkime ısısı tahmini 0 saat alıyor; oysa bu "Energia di legame"in doğrudan uygulaması.
 
-Kalorimetri tarafında çelişki yok: q = mcΔT fizikte ("Concetto di calore e calorimetria", "Capacità termica e calore specifico") zaten T derinliğinde, mole bölmek de "concetto di mole e sua applicazione" kapsamında.
+**Düzeltme:** Belge bu hesabı kendi kurallarıyla zaten kapsama alıyor. Dayanak hem belgede hem Allegato A'da var:
+- Allegato A s.2 "Energia di legame"; s.3 açık başlık "i differenti tipi di reazione chimica"; s.4 "Concetto di calore e calorimetria", "Primo e secondo principio della termodinamica". $C_{max}$ tarafında Indicazioni s.346 "gli scambi energetici associati alle trasformazioni chimiche".
+- Sorumluluk özetinin 1. adımı listelerden önce uygulanıyor: "Allegato A'da adı geçen konu, doğrudan uygulamaları … kapsamdadır." Giriş paragrafı da aynı şeyi söylüyor: "dayanağın doğrudan uygulamaları zaten kapsamdadır".
+- Dışlanan satırının parantezi "Energia di legame"i kapsamda kalan dayanak olarak açıkça gösteriyor: "ekzotermik ve endotermik tepkime kavramı 'Energia di legame' ile kapsamda okunur".
 
-Karar etkisi küçük: yarım-bir saatlik bir hesap türü, 2024–2026'da kanıtı yok. **Önerilen satır:** "Bağ enerjilerinden tepkime enerjisi tahmini kapsamdadır [Yorum: 'Energia di legame'in doğrudan uygulaması]; Hess yasası, oluşum entalpileri ve ΔG hesabı dışlanandır (Kural 3c hariç)."
+Bağ kırılırken alınan enerjiden bağ oluşurken verilen enerjiyi çıkarmak, belgenin zaten kapsama aldığı ekzotermik/endotermik mantığının sayısal hâlidir ve yeni bir kavram gerektirmez. Kurallar sırayla uygulanınca sonuç kapsam ve T derinliği çıkıyor. "ΔH hesapları" dışlaması ise Hess yasası ve oluşum entalpileri gibi s.346'daki termokimya konularına kalıyor.
 
-Aynı taramanın öne sürdüğü üç bulgu daha doğrulamada çürüdü; belge bu durumları zaten karşılıyor:
-- **Bitki yaşam döngüleri:** "Cicli vitali" ve "Riproduzione sessuata ed asessuata" Allegato A'da adıyla geçiyor ve Sorumluluk özetinin 1. adımı önce uygulanıyor. Bu yüzden bitki yaşam döngüleri dışlanmış sayılmıyor.
-- **Polinom bölmesi ve Ruffini:** "Espressioni algebriche, polinomi" ve "scomposizione in fattori dei polinomi"nin doğrudan aracı olduğu için kapsamda.
-- **Radyoaktivite:** C_max'ta görelilik bloğunun içinde (s.343). C2(a) ölçütüyle dışlanan kalıyor.
+**İsteğe bağlı ifade önerisi:** Dışlanan satırı "ΔH (Hess yasası, oluşum entalpileri) ve ΔG hesapları" diye yazılırsa satır tek başına okunduğunda da yanlış anlaşılmaz. Karar etkisi yok.
+
+Raporun kaçırdığı hataları arayan taramanın öne sürdüğü diğer üç bulgu doğrulamada çürüdü; belge bu durumları zaten karşılıyor:
+- **Bitki yaşam döngüleri:** "Cicli vitali" ve "Riproduzione sessuata ed asessuata" Allegato A'da adıyla geçiyor ve 1. adım önce uygulanıyor.
+- **Polinom bölmesi ve Ruffini:** "Espressioni algebriche, polinomi" ve "scomposizione in fattori dei polinomi"nin doğrudan aracı.
+- **Radyoaktivite:** $C_{max}$'ta görelilik bloğunun içinde (s.343); Allegato A'da bir ifadeye dayanmadığı için dışlanan.
 
 ---
 
@@ -286,7 +291,7 @@ Aynı taramanın öne sürdüğü üç bulgu daha doğrulamada çürüdü; belge
 | Kütlenin korunumu ve sabit oranlar | ~ | C5 |
 | Kapalı sayımlar (bağ türleri; 4 inorganik sınıf; hidrokarbonlar; 8 fonksiyonel grup) | ✓ | 8 grup sayıldı |
 | "ecc." yalnızca fonksiyonlar parantezinde | ✓ | Tek geçiş |
-| "Esempi di forze" açık liste | ✓ | Ama C2 |
+| "Esempi di forze" açık liste | ✓ | Kütleçekimiyle çelişmiyor (C2) |
 
 ### Allegato A'da olmayan konular: sayfa atıfları
 
@@ -305,13 +310,13 @@ Aynı taramanın öne sürdüğü üç bulgu daha doğrulamada çürüdü; belge
 | Geometrik optik | ✓ | s.342 |
 | Dalgalar ve ses | ✓ | s.343 (dayanak notu D'de) |
 | Maxwell, EM dalgalar | ✓ | s.343 |
-| Kütleçekimi ve Kepler | ✓ | s.343 (sınıflandırma C2) |
+| Kütleçekimi ve Kepler | ✓ | s.343; ayrı blok, belge açıkça dışlıyor (C2) |
 | Kinetik teori | ✓ | s.343 |
 | Özel görelilik, kütle-enerji, nükleer | ✓ | s.343 |
 | Planck (s.343); fotoelektrik, enerji düzeyleri, De Broglie, belirsizlik (s.344) | ✓ | "atomik spektrum" adıyla geçmez, "livelli energetici discreti" geçer |
 | Astrofizik, parçacık fiziği, yarı iletkenler | ✓ | s.344 |
 | Elektrokimya | ✓ | s.346 "cenni di elettrochimica" |
-| ΔH ve ΔG | ✓ / ~ | s.346 "scambi energetici … aspetti termodinamici" (adıyla geçmez). Bağ enerjisinden tahmin ayrıca ele alınmalı (C10) |
+| ΔH ve ΔG | ✓ | s.346 "scambi energetici … aspetti termodinamici" (adıyla geçmez). Bağ enerjisinden tahmin 1. adımla kapsamda (C10) |
 | Biyomateryaller | ✓ | s.346 |
 | Ekoloji | ✓ | s.345 "rapporti organismi-ambiente", s.346 "ecologia" |
 | Sistematik ve biyoçeşitlilik | ✓ | s.345 |
