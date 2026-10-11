@@ -369,7 +369,8 @@ Derinlik niteleyicisi yoktur; derinliği T verir.
 - Hess yasası, oluşum entalpileri ve ΔG hesapları dışlanandır (Kural 3c hariç).
 
 **Organik kimya:**
-- Sekiz fonksiyonel grubun tanımlayıcı tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Gruppi funzionali", "i differenti tipi di reazione chimica"]. Bu tepkimeler: esterleşme, ester hidrolizi ve sabunlaşma, amit oluşumu ve alkollerin yükseltgenmesi. Hidrokarbon tepkimeleri (alkenlere katılma, yanma) de aynı derinlikte kapsamdadır [Yorum: "Idrocarburi alifatici", "i differenti tipi di reazione chimica"].
+- Hidrokarbonlar ("Idrocarburi alifatici, aliciclici e aromatici"): alkenlere katılma ve yanma tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Idrocarburi alifatici", "i differenti tipi di reazione chimica"].
+- Sekiz fonksiyonel grup ("Gruppi funzionali"): tanımlayıcı tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Gruppi funzionali", "i differenti tipi di reazione chimica"]. Bu tepkimeler: esterleşme, ester hidrolizi ve sabunlaşma, amit oluşumu ve alkollerin yükseltgenmesi.
 - Tepkime mekanizmaları (SN1, SN2, E1, E2) dışlanandır.
 
 **Kapalı sayımlar:**
