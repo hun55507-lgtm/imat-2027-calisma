@@ -1,0 +1,576 @@
+IMAT 2027 sorumluluk kılavuzu: nihai tanımlar (Belge 1 ve Belge 2)
+==================================================================
+
+Sürüm: D.M. 1005/2026'ya göre (11 Ekim 2026). 2027 DM'si yayımlandığında Belge 2'deki güncelleme prosedürü uygulanır.
+
+Kılavuzun amacı: Allegato A ile Indicazioni kullanılırken sınavda hangi konudan, hangi kaynaktan ve hangi derinlikte sorumlu olunduğunu belirlemek. Verimli çalışma planı bu belirlemenin üzerine kurulur.
+
+Temel ilke: Allegato A her zaman birinci ve en verimli kaynaktır; sorumluluk önce onun metninden okunur. Indicazioni ve öteki okul belgeleri (Cmax) yalnızca tavandır. Sorumluluk eklemezler; derinliğe üst sınır koyar ve sınır ile 3c öğelerine dayanak verirler.
+
+Belge 1: Terminal Sınav Çerçevesi — İçerik ve Derinlik Filtresi (M₃)
+====================================================================
+
+Tanımlanan dosya: Allegato A, 4 sayfa. Basılı metinde DM numarası ve tarihi yok.
+- s.1: başlık, iki numarasız giriş paragrafı (genel beceri ve bilgi listesi; okul hazırlığı paragrafı), bölüm 1 ve 2.
+- s.2: 3 Biyoloji ve 4 Kimya'nın başı.
+- s.3: Kimya'nın devamı ve 5 Matematik.
+- s.4: 6 Fizik.
+
+Etiketler ve temel kavramlar
+----------------------------
+
+Statü (altı sınıf):
+- Birincil: resmî metinden doğrulandı.
+- Birincil*: resmî metin, ama yalnızca arama özeti üzerinden görüldü.
+- İkincil: yalnızca ikincil kaynaklarla doğrulandı.
+- Doğrulanmalı: henüz kontrol edilmedi.
+- Çıkarım: doğrulanmış veriden mantıksal sonuç (ör. 2030/31).
+- Varsayım: henüz belirlenmemiş gelecek (ör. 2027 formatı).
+
+Etiketler:
+- [Yorum]: Allegato A'da adıyla geçmeyen, metne dayalı okuma.
+- [Kanıt]: resmî MUR soru kitapçığındaki, Kural 3b'nin kanıt ölçütünü geçen soru.
+- [Çıpa]: derinliğe alt sınır veren soru (Belge 2, Kural 2).
+- [Sınav örneği]: bir kavramın sınavda geçtiğini gösteren ama kanıt ölçütüne konu olmayan soru.
+
+Sınıflar. Her konu tanımlarla, aşağıdaki dört sınıftan birine girer:
+- Kapsam: Allegato A'da adı geçen konu ve doğrudan uygulamaları.
+  - Doğrudan uygulama: adı geçen konunun yeni bir kavram gerektirmeyen kullanımı.
+- Sınır: Allegato A'daki belirli bir ifadeye dayanan ama dayanağın ötesinde yeni bir kavram gerektiren konu. Bir kapsam belirteci ya da kapalı sayımla dışarıda bırakılan ama aynı başlığa dayanan konu da sınırdır (ör. Y'ye bağlı kalıtım, CGS birim sistemi).
+- Dışlanan: Cmax'ta geçen ama Allegato A'daki hiçbir ifadeye dayanmayan konu. Bu konular çoğunlukla Cmax'ta ayrı bir başlık ya da blok olarak geçer (ör. "Con lo studio della gravitazione, dalle leggi di Keplero alla sintesi newtoniana", s.343).
+- Tanımsız: ne Allegato A'ya dayanan ne Cmax'ta geçen konu. Sorumluluk doğurmaz.
+
+Sınıflandırma ilkeleri:
+- Asgari kavram ilkesi: Bir konu ya da soru, bağlamına göre değil, çözümü için gereken asgari kavrama göre sınıflanır. Örnekler:
+  - Yarılanma aritmetiği ((1/2)ⁿ) üstel fonksiyondur ve kapsamdadır; bağlamın radyoaktivite olması bunu değiştirmez.
+  - Düşey çemberde enerji korunumu ve merkezcil kuvvetle çözülen soru kapsamdadır.
+- Listeler örnektir: Bu belgedeki Kapsam, Sınır ve Dışlanan listeleri en sık karşılaşılan durumları gösterir, eksiksiz değildir. Listede olmayan bir konu yukarıdaki tanımlarla sınıflanır.
+
+Yasal kimlik
+------------
+
+- D.M. 1005/2026 ve Allegato A'nın rolü. D.M. 1005/2026 6 Ağustos 2026 tarihlidir ve 7 Ağustos 2026'da MUR'da yayımlandı. Allegato A'sı IMAT 2026/27'nin soru programıdır; DM m.2 c.2 Allegato A'ya atıf yapar. 2027 DM'si çıkana kadar M₃ bu metindir.
+  - Statü: tarih ve rol Birincil*; m.2 c.2 atfı Birincil. "2027 DM'si çıkana kadar": Varsayım.
+- Düzeltme ilanı. DM sayfasındaki 26.8.2026 tarihli düzeltme ilanı (MUR'da 27.8.2026) yalnızca Tabella A'daki sınav merkezlerini düzeltir; Allegato A'yı etkilemez. [Statü: Birincil*]
+- Dosyanın kimliği. Ekteki dosya D.M. 1005/2026 Allegato A ile aynıdır. Gövde D.M. 1133/2024'te de aynıydı. LM-42 başlığa D.M. 599/2025 ile girdi.
+  - Statü: Birincil (10.10.2026'da MUR'daki 2026 ve 2024 PDF'leriyle karşılaştırıldı; gövde ve sayfa düzeni aynı, 2024 başlığında LM-42 yok).
+  - Ayırt edici iz: "Potenze con esponente intero, razionale)" satırındaki açılışı olmayan kapanış parantezi.
+- Her yıl yeni DM. Her yıl Ağustos başında yeni bir DM çıkıyor:
+  - 1133 (6.8.2024)
+  - 599 (7.8.2025; MUR'da 8.8.2025)
+  - 1005 (6.8.2026; MUR'da 7.8.2026)
+
+  [Statü: Birincil*]
+
+Hukuki çerçeve
+--------------
+
+- L. 264/1999 m.4. [Statü: İkincil]
+  - c.1, birinci cümle: kabulü "prove di cultura generale, sulla base dei programmi della scuola secondaria superiore, e di accertamento della predisposizione per le discipline oggetto dei corsi medesimi" koşuluna bağlar.
+  - c.1, ikinci cümle: sınavın yöntemini ve içeriğini bakana bırakır: "Per i corsi di cui all'articolo 1, comma 1, lettere a) e b), il Ministro … determina con proprio decreto modalità e contenuti delle prove di ammissione".
+  - c.1-bis (L. 122/2010 m.44 c.3-bis ile eklendi): yabancı dildeki derslerin sınavı doğrudan o dilde hazırlanır. Soruların İngilizce olmasının yasal dayanağı budur.
+- D.Lgs. 71/2025 m.8 c.3. Semestre filtro dahil kararnamenin hükümleri İngilizce derslere uygulanmaz: "Le disposizioni del presente decreto non si applicano ai corsi di studio erogati in lingua inglese presso le università statali e non statali legalmente riconosciute". IMAT, L. 264/1999 ve yıllık DM'ye göre yapılır. [Statü: Birincil*]
+- 2027 için. Format da Allegato A içeriği de izlenir; tetikleyici 2027 DM'sidir. [Statü: Varsayım]
+- Tarih için bağlayıcı olan DM'dir; takvim duyurusu ön bildirimdir ve düzeltilebilir. 2026'daki sıra: [Statü: Birincil*]
+  - 3.7.2026 duyurusu 30 Eylül dedi.
+  - MUR 29.7.2026 tarihli errata corrige ile tarihi 29 Eylül'e çekti.
+  - DM 1005 (6.8.2026) bunu kesinleştirdi.
+
+Sınav biçimi (planlama ağırlıkları)
+-----------------------------------
+
+- Tek ortak sınav, iki sıralama. Sınav LM-41, LM-46 ve LM-42 için tektir ve her yerde aynı içeriktedir. Aday kayıtta Tıp+Diş ya da Veteriner yarışmasını seçer; bu seçim geri alınamaz. İki ayrı ulusal sıralama yapılır. [Statü: İkincil]
+- Soru sayısı, süre ve puanlama. 60 soru, 100 dakika, beş şık. Doğru +1,5, yanlış −0,4, boş 0; en fazla 90, asgari 20 puan. [Statü: Birincil*]
+- Soru dağılımı:
+
+  - Okuma ve önceki öğrenimde edinilen bilgiler, genel kültür: 4 soru (S1–4)
+  - Mantık: 5 soru (S5–9)
+  - Biyoloji: 23 soru (S10–32)
+  - Kimya: 15 soru (S33–47)
+  - Matematik ve fizik: 13 soru (S48–60)
+
+  Matematik ve fizik bölümündeki sıra yıla göre değişti: 2024–2025'te matematik S48–54 (7), fizik S55–60 (6); 2026'da fizik S48–54 (7), matematik S55–60 (6). Bilim soruları 60 sorunun 51'ini (%85), biyoloji tek başına 23'ünü (%38) oluşturuyor. [Statü: İkincil]
+- Elektronik cihaz ve hesap makinesi yasağı. DM'nin Allegato 1'i (p.9 f) şunları yasaklar: telefon, akıllı saat, tablet, kulaklık, webcam "o altra strumentazione similare", kişisel kalem ve kırtasiye, ders kitapları ve notlar.
+  - "calcolatrici" DM metninde adıyla geçmez.
+  - Üniversite salon yönergeleri hesap makinesini adıyla yasaklar: "…borse o zaini, carta, calcolatrici, telefoni cellulari…". [Statü: Birincil*]
+  - Sonuç: hesaplar zihinden yapılır.
+
+Kapsam ve işlev
+---------------
+
+İlke
+
+Sorumluluğun merkezi güncel Allegato A'dır. Allegato A'da adı geçen konu ve doğrudan uygulamaları kapsamdadır. Bunun dışında hiçbir konu sorumluluk doğurmaz; iki dar istisna vardır:
+- Kural 3b: sınır öğeleri ve sınavda sorulmuş dışlanmış konular, kanıt durumlarına göre.
+- Kural 3c: bir Allegato A hedefini çözmek için zorunlu araç bilgisi.
+
+Allegato A, İngilizce Tıp (LM-41), Diş Hekimliği (LM-46) ve Veteriner Hekimliği (LM-42) giriş sınavlarının soru programıdır: "Programmi relativi ai quesiti delle prove di ammissione ai corsi di laurea magistrale in Medicina e Chirurgia (LM-41), in Odontoiatria e Protesi Dentaria (LM-46) e in Medicina veterinaria (LM-42) in lingua inglese." [Statü: Birincil]
+
+Bütün sorular İngilizcedir; sembolik dil de kullanılabilir ("anche ricorrendo al linguaggio simbolico"). Yasal dayanak L. 264/1999 m.4 c.1-bis'tir.
+
+Giriş paragrafları (s.1)
+
+- Birinci paragraf: genel beceri ve bilgi listesini verir. Metin anlama ve çözümleme, mantıksal-matematiksel akıl yürütme, genel kültür ve matematik, kimya, fizik ve biyoloji bilgisi. Genel kültürde vurgu "con speciale riguardo all'ambito storico, geografico, sociale e istituzionale" ifadesiyle verilir; bu bir vurgudur, kapalı bir liste değildir.
+- İkinci paragraf ("Le capacità e le conoscenze richieste rispondono alla preparazione promossa dalle istituzioni scolastiche … coerenti con le Indicazioni nazionali per i licei e con le Linee guida per gli istituti tecnici e per gli istituti professionali, soprattutto in vista degli Esami di Stato"): Cmax'ın kaynağıdır (Belge 2).
+
+Test edilen alanlar
+
+Bölüm 1. Okuma becerileri ve önceki öğrenimde edinilen bilgiler ("Competenze di lettura e conoscenze acquisite negli studi"):
+- Kesişen yetkinlik. İngilizce metin anlama bütün sorularda ölçülür: "costituisce una competenza trasversale, dato che tutti i tipi di domande saranno formulati in lingua inglese".
+- Ayrıca sınanan üç beceri ("Saranno oggetto di specifica verifica anche"):
+  - gerçek bağlamlarda soyut, nadir ya da uzmanlık sözcüklerini anlama;
+  - metinsel bağlaşıklık ve tutarlılık olgularını belirleme;
+  - metne özgü bilgi ayrıntılarını çıkarma ve çıkarsama ("estrarre e inferire dal testo le specificità informative").
+- Metin türleri: kısa bilimsel deneme ya da klasik ve çağdaş anlatı metinleri, ya da gazetelerde ve genel veya uzmanlık dergilerinde yayımlanmış kısa güncel konu metinleri ("…di narrativa classica e contemporanea, oppure da brevi testi di attualità…").
+  - [Sınav örneği: 2026 S2, Aleramo, Una donna; 2026 S3, edebiyat tarihi üzerine bir deneme; S3'ün dayanağı ayrıca "brevi testi di varia tipologia e tematica"dır.]
+- Önceki öğrenim ve genel kültür aynı cümlede: "Sempre a partire da brevi testi di varia tipologia e tematica, saranno oggetto di verifica le competenze acquisite negli studi pregressi e le conoscenze di cultura generale anche di ambito sovranazionale o di argomenti oggetto del dibattito pubblico contemporaneo."
+  - Önceki öğrenimde edinilen beceriler dil bilgisini, edebiyatı ve tarihi kapsar. [Yorum; Sınav örneği: 2024 S4 edilgen çatı, "were sung"; 2024 S1, Virginia Woolf, To the Lighthouse]
+  - Genel kültür kısa metinlerden hareketle sorulur. Hedefler "In particolare" ile örnek olarak verilir:
+    - temsil edilen mekân ve zamanda yön bulma, yani önemli tarihsel-kültürel olguları mekân ve zamana yerleştirme (edebiyat bilgisi de buraya dayanır: "fenomeni storico-culturali di rilievo");
+    - başlıca ulusal ve uluslararası kurumlar ("le principali istituzioni nazionali e internazionali"). [Yorum: "ulusal" İtalya'nın kurumlarını ifade eder; aynı sayfa "Indicazioni nazionali"de "nazionale"yi bu anlamda kullanıyor. Pratikte İtalya'nın temel devlet kurumları, AB gibi uluslarüstü kurumlar ve başlıca uluslararası kuruluşlar.]
+    - hukuk, ekonomi ve yurttaşlık alanlarındaki olguları anlama.
+  - Ayrıca uluslarüstü konular ve güncel kamusal tartışmalar.
+
+Bölüm 2. Mantıksal akıl yürütme ve problemler: Bir akıl yürütmeyi öncüllerle tutarlı biçimde tamamlama. Öncüller sembolik ya da sözeldir; vaka ve problemler soyut da olabilir ve çözümleri farklı mantıksal akıl yürütme biçimleri gerektirir.
+
+Bölüm 3–6. Biyoloji, kimya, matematik ve fizik:
+- Allegato A'da adı geçen her konu ve doğrudan uygulamaları kapsamdadır.
+- Daraltma araçları kapsamı ve derinliği sınırlar; genişletme ve adıyla ekleme ifadeleri kapsamı açıkça büyütür.
+- Sınır ve Dışlanan listeleri Allegato A'da adı geçmeyen konuları örnekler.
+- 1. ve 2. bölümlerin kapalı bir konu listesi yoktur; bunlar beceri ve genel kültür alanlarıdır.
+
+Beceriler
+
+Allegato A yalnızca bir konu listesi değildir; giriş paragrafı metin çözümleme ve mantıksal-matematiksel akıl yürütme becerilerini de sayar.
+- Kural 3a yalnızca konulara uygulanır. Mantık sorularında diziler, yüzdeler, cebirsel dönüşümler ve temel geometri bilgisi araç olarak kullanılabilir. Derinlikleri yalnızca sorunun gerektirdiği düzeydir; örneğin örüntü bulunur, ama dizi kuramı ve toplam formülleri çalışılmaz (Belge 2, Kural 3d).
+- Zihinden hesap, tahmin, yuvarlama ve büyüklük mertebesi beceridir. Dayanak Indicazioni s.338: "calcolo (mentale, con carta e penna, mediante strumenti)" ve "senza compromettere la necessaria acquisizione di capacità di calcolo mentale". Allegato A'daki "ordine di grandezza e notazione scientifica" (Matematik) ile "Notazione scientifica" (Fizik) bunların konu adlarıdır.
+
+Sorumluluk özeti (karar sırası)
+-------------------------------
+
+Bir konunun kapsamda olup olmadığı ve hangi derinlikte çalışılacağı şu sırayla belirlenir. Önce asgari kavram ilkesi uygulanır, sonra adımlara geçilir.
+
+1. Allegato A'da adı geçen konu, doğrudan uygulamaları ve [Yorum] ile kapsamda okunanlar → kapsam.
+   - Kapsam belirteçleri, kapalı sayımlar ve "principali" kapsamı daraltır (Kural 2b); genişletme ifadeleri büyütür.
+   - Derinliği Kural 2 belirler. Niteleyici varsa üst sınırdır; yoksa derinliği T belirler, Cmax sınırlar. Derinlik çıpaları alt sınırı verir. Çatışmada Belge 2'deki öncelik sırası uygulanır.
+2. Sınır tanımına uyan konu (Sınır listesinde olsun olmasın):
+   - Kanıtlıysa kanıtın gerektirdiği alt kavram, sorunun gerektirdiği düzeyden T'ye kadar çalışılır. Dayanağın niteleyicisi üst sınırdır.
+   - Kanıtsız ama Kural 3c bağımlılığı varsa yalnızca onu gerektiren hedefin istediği derinlikte girer.
+   - İkisi de yoksa Kural 3b'nin kanıtsız sınır hükmü uygulanır (satır başına en fazla 1 saat).
+3. Dışlanan tanımına uyan konu: çalışılmaz.
+   - Sınavda sorulmuşsa (Belge 2, 3b kanıt listesi) Kural 3b'nin tanıma katmanı açılır (en fazla 2 saat).
+   - Araç olarak gerekiyorsa Kural 3c ile o hedefin istediği derinlikte girer.
+4. Tanımsız konu (Allegato A'ya dayanmıyor ve Cmax'ta yok): çalışılmaz.
+5. Okuma, genel kültür ve mantık: kapalı konu listesi yoktur; bunlar beceri ve genel kültür alanlarıdır. Kural 3a uygulanmaz; hazırlık Kural 3d'ye göre yapılır.
+
+Kalan risk
+----------
+
+[Statü: Çıkarım — 2024–2026 MUR kitapçıkları]
+
+Sayım. 2024–2026'da bilim sorularının 8'i (yılda 1–5) çekirdek dışından geldi:
+- 6'sı sınır türünden.
+- 2'si dışlanan fizik bloğundan (s.343).
+
+2024 S50 bu sayıma girmez: sıralı sayımla çözüldüğü için kapsamın sınav örneğidir.
+
+Tekrar. Bu konuların hiçbiri sonraki yıllarda tekrar etmedi.
+
+Kanıtın anlamı. Kanıt, soru yazarının bu bölgeye çıkabildiğini gösterir; tekrar sorulacağını garanti etmez. 3b kanıt listesi geçmişi kapsar, 2027'deki çekirdek dışı soruları öngörmez.
+
+Riskin karşılanması.
+- Sınır türü risk Kural 3b'nin kanıtsız sınır hükmüyle karşılanır.
+- Dışlanan konulardaki risk bilerek kabul edilir.
+
+Daraltma ve genişletme araçları
+-------------------------------
+
+Allegato A sorumluluğu iki eksende sınırlar:
+- Kapsam: kapsam belirteçleri, kapalı sayımlar ve "principali".
+- Derinlik: derinlik niteleyicileri.
+
+Bazı ifadeler ise kapsamı açıkça genişletir ya da adıyla konu ekler (madde 6). 2. ve 3. maddeler kesin sınır sayılmayan ifadeleri ayırır.
+
+1. Derinlik niteleyicileri (üst sınır)
+
+Yalnızca matematik ve kimyada vardır; fizikte ve biyolojide yoktur.
+
+Matematik:
+- "Cenni di calcolo combinatorio". Cebir maddesinde ("Insiemi numerici e algebra") geçer, olasılık maddesinde değil.
+- "nozioni fondamentali sulle funzioni". Yalnızca "Funzioni: nozioni fondamentali sulle funzioni e loro rappresentazioni grafiche (…, ecc.)" cümlesini niteler. "Funzioni elementari…", "Funzioni composte e funzioni inverse" ve "Equazioni e disequazioni goniometriche" ayrı cümlelerdir.
+- "Seno, coseno, tangente di un angolo e loro valori notevoli": trigonometrik değer bilgisi özel açılarla (0°, 30°, 45°, 60°, 90° ve katları) sınırlıdır.
+
+Kimya:
+- "Fondamenti di chimica inorganica" ve "Fondamenti di chimica organica".
+- "calcoli stechiometrici elementari".
+- "bilanciamento di semplici reazioni". İki kez geçer: stokiyometride ve redoks maddesinde ("Bilanciamento di semplici reazioni").
+  - Bu niteleyicinin erimi çıpa sorularıyla kalibre edilir: redoks ve disproporsiyonlaşma denkleştirmesine kadar uzanır. [Çıpa: 2026 S34, S39, S40]
+- "Elementi di cinetica chimica e catalisi".
+- Organik kimyada "Elementi di nomenclatura".
+
+2. Zayıf işaretler (kesin sınır değil)
+
+"concetto di…" ve "nozione di…" kavramsal vurgu taşır. Çoğunun ardından uygulama gelir ve derinliği T belirler. Liste tamdır (7 "concetto", 1 "Nozione"):
+- "concetto di mole e sua applicazione"
+- "concetto di isomeria"
+- "il concetto di acido e di base"
+- "concetto di ossidante e riducente"
+- "Nozione di esperimento casuale e di evento"
+- "Concetto di forza come interazione tra corpi"
+- "concetto di temperatura"
+- "Concetto di calore e calorimetria"
+
+3. Niteleyici olmayan terimler
+
+Kural: "elementare", "elemento" ya da "fondamentale" bir teknik terimin parçasıysa niteleyici değildir. Bir işlemi ya da bilgiyi nitelediğinde ("calcoli stechiometrici elementari", "nozioni fondamentali sulle funzioni") niteleyicidir.
+
+Teknik terim oldukları için sınır koymayanlar:
+- "particelle elementari"
+- "Funzioni elementari"
+- "composti ed elementi"
+- "struttura elettronica degli atomi dei vari elementi"
+- "Il sistema periodico degli elementi"
+- "elementi di transizione"
+- "Proprietà periodiche degli elementi"
+- "proprietà degli elementi"
+- "Grandezze fisiche fondamentali e derivate"
+
+4. Kapsamı daraltan "principali" (liste tam, 5 geçiş)
+
+- İnorganik bileşiklerin özellikleri: "nomenclatura e principali proprietà dei composti inorganici".
+- Derişimin ifade biçimleri: "i principali modi di esprimere la concentrazione delle soluzioni".
+  - [Yorum] Başlıca biçimler: molarite, molalite, mol kesri, yüzdeler (m/m, m/V, V/V) ve ppm.
+  - Normalite ve eşdeğer kavramı başlıcalar arasında sayılmaz; Cmax dayanağı bulunursa sınırdır, bulunmazsa tanımsızdır.
+- İstatistikte grafik gösterimler: "principali rappresentazioni grafiche". Fonksiyon grafiklerinde "principali" yoktur.
+- Birim dönüşümleri: "Principali conversioni tra unità di misura di sistemi diversi", yani farklı sistemlerin birimleri arasında. Aynı sistemdeki kat ve askatlar "Multipli e sottomultipli" ile, "principali" olmadan geçer.
+- Genel kültürdeki kurumlar: "la conoscenza delle principali istituzioni nazionali e internazionali".
+
+5. Kapsam belirteçleri ve kapalı sayımlar
+
+Kapalı sayım kuralı. Kapalı sayım türleri sayar. Listede olmayan tür, dayandığı başlığa göre sınır ya da dışlanandır. Adıyla sayılan özel üyeler çekirdektir; aynı ailenin tanımla türetilen üyeleri doğrudan uygulamadır ve tanım ile temel özdeşlik düzeyinde kapsamdadır.
+- Logaritma: taban 10 ve e çekirdektir; log_a ve taban değiştirme kapsamdadır.
+- Trigonometri: sin, cos ve tan çekirdektir; cot, sec ve csc tanım düzeyinde kapsamdadır.
+
+Biyoloji:
+
+Derinlik niteleyicisi yoktur; derinliği T verir.
+
+Kapsam belirteçleri:
+- "Anatomia e Fisiologia degli animali e dell'uomo": hayvan ve insan anatomi-fizyolojisini kapsama alır; LM-42'nin aynı sınava girmesi bunu destekler.
+- "Anatomia e fisiologia di sistemi ed apparati nell'uomo e relative interazioni": sistem ve aygıt düzeyindeki ayrıntıyı insanla sınırlar.
+  - [Yorum: yalnızca insanın anılması bu düzeyi hayvanlar için dışarıda bırakır; Indicazioni s.346 "soprattutto con riferimento al corpo umano"]
+  - Hayvanlarda sistem düzeyi sınırdadır.
+  - "e relative interazioni" sistemler arası bütünleşmeyi açıkça kapsama alır.
+- "I tessuti animali": bitki dokuları yok.
+- "mono- e polifattoriali".
+- "malattie ereditarie autosomiche e legate al cromosoma X": kapalı sayım. Y'ye bağlı ve mitokondriyal kalıtım sınırdadır.
+- "fotosintesi, glicolisi, respirazione aerobica e fermentazione": kapalı sayım. Bu listenin dışındaki metabolik yollar sınırdadır.
+
+Adıyla eklenen konular: daraltmazlar, bir konuyu adıyla kapsama alırlar.
+- "Il DNA dei procarioti": plazmitler, konjugasyon, transdüksiyon ve transformasyon kapsamdadır [Yorum].
+- "La struttura del cromosoma eucariotico".
+- "I virus": yapı ve çoğalma döngüleri (litik ve lizojenik) kapsamdadır [Yorum].
+- "la tecnologia del DNA ricombinante e le sue applicazioni": kesim enzimleri, vektörler, klonlama, PCR, elektroforez, dizileme, GDO'lar ve gen tedavisi gibi araç ve uygulamalar kapsamdadır [Yorum].
+- "Riproduzione ed ereditarietà. Cicli vitali. Riproduzione sessuata ed asessuata.": bitki ve hayvan yaşam döngüleri dahildir.
+- İnsanda döllenme, implantasyon, embriyo ve fetüs gelişimi ile plasenta "sistemi ed apparati nell'uomo" (üreme sistemi) ile kapsamdadır [Yorum].
+- "Le basi genetiche dell'evoluzione": popülasyon genetiği ve Hardy–Weinberg dengesi kapsamdadır [Yorum].
+- "Il ruolo degli enzimi": yarışmalı inhibisyon kapsamdadır [Çıpa: 2025 S20]. Michaelis–Menten nicel kinetiği sınırdadır.
+
+Matematik:
+
+Denklem ve eşitsizlikler:
+- "di primo e secondo grado" cebirsel denklem ve eşitsizlikleri sınırlar. Ayrıca adıyla geçenler:
+  - "Sistemi di equazioni": derece sınırı yazılmamış; birinci ve ikinci derece okunur [Yorum; Cmax s.339 "sistemi di equazioni lineari in due incognite" ve genel olarak "un sistema di equazioni o disequazioni"].
+  - goniometrik denklem ve eşitsizlikler;
+  - analitik geometrideki doğru ve konik denklemleri.
+- Eşitsizlik sistemleri kapsamdadır [Yorum: s.339 "un sistema di equazioni o disequazioni"; kesirli eşitsizlik ve tanım kümesi için araç].
+- Kesirli eşitsizlikler "Frazioni algebriche" ve "studio del segno" ile kapsamdadır [Yorum; Çıpa: 2024 S51].
+- Çarpanlara ayırma ve sıfır çarpım kuralıyla birinci ve ikinci dereceye inen denklem ve eşitsizlikler kapsamdadır; iki kareli denklemler ve çarpım biçimindeki eşitsizlikler dahil. [Yorum: "scomposizione in fattori dei polinomi", "studio del segno"]
+  - Polinom bölmesi, Ruffini kuralı ve kalan teoremi bu çarpanlara ayırmanın aracıdır, kapsamdadır [Yorum; Cmax s.338 "semplici casi di divisione con resto"].
+  - Sınırda yalnızca genel çözüm sayısı kuramı kalır.
+- |x| içeren birinci ve ikinci derece denklem ve eşitsizlikler kapsamdadır [Yorum: "numeri … reali", "Ordinamento e confronto"; Allegato A'da "valore assoluto" adıyla geçmez; Sınav örneği: 2024 S51'in payında |x|]. |x|'in fonksiyon ve grafik olarak işlenmesi sınırdadır.
+- İkinci derece denklemde diskriminant, gerçek kök sayısı ve kök-katsayı bağıntıları kapsamdadır [Yorum: doğrudan uygulama].
+
+Üstel ve logaritmik ifadeler:
+- Üstel ve logaritmik denklem ve eşitsizlikler "Funzioni elementari … esponenziali, logaritmiche" ile "Logaritmi (in base 10 e in base e) e loro proprietà" üzerinden kapsamdadır [Yorum; Sınav örneği: 2026 S56 üstel eşitsizlik, 2026 S60 logaritmik denklem].
+- Logaritmanın tanımı ve taban değiştirme her tabanda kapsamdadır (kapalı sayım kuralı) [Sınav örneği: 2024 S49, f(x) = log₂(x² + 12), yalnızca log₂ tanımı].
+- Geometrik büyüme ve yarılanma, üstel fonksiyonun ayrık hâli olarak kapsamdadır [Yorum: "Potenze", "esponenziali"; Cmax s.340 "sia in un contesto discreto sia continuo"].
+- Köklü denklem ve eşitsizlikler sınırdadır (kanıtlı). "Funzioni elementari" listesinde "irrazionali" yoktur.
+
+Geometri ve trigonometri:
+- "Teoremi di Euclide (primo e secondo)"; "Teorema di Pitagora".
+- "Risoluzione dei triangoli": sinüs ve kosinüs teoremleri kapsamdadır [Yorum].
+- "Seno, coseno, tangente di un angolo e loro valori notevoli". Kotanjant, sekant ve kosekant tanım düzeyinde kapsamdadır (kapalı sayım kuralı).
+- "nel piano" üç kez geçer: "Isometrie, similitudini ed equivalenze nel piano", "Sistema di riferimento cartesiano nel piano" ve konikler için "rappresentazione nel piano cartesiano". İzometri, benzerlik, eşdeğerlik ve analitik geometri yalnızca düzlemdedir.
+- Hacim ve yüzey ölçümü kapsamdadır ("Misure di lunghezze, superfici e volumi") [Sınav örneği: 2024 S53, silindir].
+- Doğrunun nokta-eğim biçimi "Equazione della retta" ile kapsamdadır; doğru demetleri sınırdadır.
+
+Fonksiyonlar:
+- "Funzioni elementari: algebriche intere e fratte, esponenziali, logaritmiche, goniometriche" kapalı sayımdır.
+
+Aritmetik ve olasılık:
+- EBOB ve EKOK'un çarpanlara ayırmayla hesaplanması tam sayı aritmetiği olarak kapsamdadır [Yorum].
+- "potenza n-esima di un binomio": binom açılımı ve binom katsayıları kapsamdadır.
+- Olasılıkta Allegato A "Nozione di esperimento casuale e di evento. Probabilità e frequenza." der; bunun yanında cebir maddesindeki "Cenni di calcolo combinatorio" vardır.
+  - Olumlu/olası durum sayımı, sıralı sayım ve kombinasyonla çözülen iadeli ya da iadesiz çekiliş problemleri kapsamdadır [Yorum; Sınav örneği: 2024 S50, iadeli, 49/100; Çıpa: 2026 S58, iadesiz, 7/22].
+  - Bağımsız olaylarda çarpım kuralı, sıralı sayımın doğrudan uygulaması olarak kapsamdadır.
+  - Koşullu olasılık adıyla yalnızca Indicazioni s.341'de ("probabilità condizionata e composta") geçer ve sınırdadır (genetikte Kural 3c ile girer).
+
+Fizik:
+
+Birimler ve ölçme:
+- "Sistemi di unità di misura: Internazionale e Tecnico". Bu ifade daraltır ve genişletir:
+  - Teknik sistem birimleri adıyla kapsamdadır (kgf ya da kp, 1 kgf ≈ 9,81 N; kgm; CV) ve SI ile dönüşümleri de kapsamdadır.
+  - CGS adıyla geçmez ve sınırdadır.
+- Ölçüm belirsizliği, anlamlı basamaklar ve mutlak ile bağıl hata "Grandezze fisiche e loro misura"nın doğrudan uygulaması olarak kapsamdadır [Yorum; Cmax s.342 "incertezze, cifre significative"]. Hata yayılımının istatistiksel kuramı sınırdadır.
+
+Termodinamik ve akışkanlar:
+- "Primo e secondo principio della termodinamica".
+  - İkinci ilkenin ifadeleri (Kelvin, Clausius), ısı makinesi verimi ve Carnot verimi kapsamdadır [Yorum].
+  - Entropi nitel düzeyde kapsamdadır; nicel entropi hesabı sınırdadır.
+- "Dinamica dei liquidi: moto unidimensionale": sıvı akışı tek boyutludur.
+- "Fluidi ideali ed equazione di Bernoulli": Bernoulli denklemi ideal akışkanlarla sınırlıdır. Gerçek akışkanlarda yalnızca "Forze viscose nei fluidi reali" adıyla geçer; Poiseuille yasası sınırdadır.
+- "principi di Pascal, Stevino ed Archimede" kapalı sayımdır.
+- "Leggi dei gas perfetti" iki kez geçer: Kimya (s.2) ve Termodinamik (s.4). İkisi de ideal gazla sınırlıdır.
+  - Nitel kinetik-molekül modeli kapsamdadır [Yorum; Cmax s.345 "il modello particellare della materia"].
+  - Nicel kinetik teori dışlanandır.
+
+Hareket:
+- Hareket türleri kapalı bir listedir: "Moto rettilineo uniforme, moto uniformemente accelerato, moto circolare uniforme, moto armonico".
+  - Bu türlerin vektörel bileşimi (ör. eğik atış) "Descrizione del moto" ve "Vettori e operazioni sui vettori" ile kapsamdadır [Yorum].
+  - Göreli hız hesabı (vektör çıkarma) kapsamdadır [Sınav örneği: 2025 S55].
+  - Listede olmayan hareket türleri ve çerçeve kuramı sınırdadır: düzgün olmayan çembersel hareket, eylemsiz ve eylemsiz olmayan çerçeveler, Galile dönüşümünün geçerlik koşulu.
+- "Vettori e operazioni sui vettori": skaler ve vektörel çarpım, iş ve moment hesabında kapsamdadır [Yorum].
+
+Dinamik:
+- Cisimlerin dengesi (ΣF = 0, Στ = 0) kapsamdadır [Yorum: "Il principio d'inerzia" ve "Momento di una forza"nın doğrudan uygulaması; Cmax s.342 "equilibrio dei corpi"].
+- "Impulso e quantità di moto. Principio di conservazione della quantità di moto": tek boyutlu çarpışmalar (esnek ve esnek olmayan) kapsamdadır. Kütle merkezi sınırdadır.
+- "Momento di una forza e momento angolare": açısal momentum ve korunumu nitel ve basit nicel düzeyde kapsamdadır [Yorum]. Eylemsizlik momenti hesapları sınırdadır.
+- "Esempi di forze: la forza peso, la forza elastica, l'attrito statico e dinamico" bir örnek listesidir, dolayısıyla açıktır. Normal kuvvet, gerilme ve merkezcil kuvvet kapsamdadır.
+  - Açık liste yeni bir kuvvet yasası getirmez. Evrensel kütleçekimi Cmax'ta ayrı bir blok olduğu için dışlanandır.
+
+Elektrik ve manyetizma:
+- Manyetizmada Allegato A yalnızca şunları anar: "Campo magnetico di una corrente elettrica", "Forze sulle correnti elettriche in campo magnetico", "Induzione elettromagnetica".
+  - Tek bir yüklü parçacığa etkiyen kuvvet (Lorentz) sınırdadır.
+- "Corrente continua e alternata. Periodo e frequenza.": alternatif akımın temel büyüklükleri kapsamdadır: periyot, frekans, tepe ve etkin değer (V_etkin = V₀/√2) [Yorum]. RC ve RL geçici rejimleri sınırdadır.
+
+Kimya:
+
+Denge:
+- "Equilibri in soluzione acquosa" dengeyi sulu çözeltiyle sınırlar.
+  - Kapsamda: çözünürlük dengesi (Kps, Q ile Kps karşılaştırmasıyla çökelme, ortak iyon etkisi), asit-baz dengeleri, hidroliz, tamponlar ve sulu dengelere Le Chatelier uygulaması [Yorum: "solubilità" + "Equilibri in soluzione acquosa"; Çıpa: 2025 S39].
+  - Sınırda: gaz içeren dengeler (homojen gaz dengeleri ve katı–gaz heterojen dengeler), Kp ve bunlara Le Chatelier uygulaması.
+
+Asit-baz ve bağ:
+- "il concetto di acido e di base" Lewis tanımını da kapsar [Yorum; Sınav örneği: 2024 S39, NH₃ + BF₃].
+- Karbonun sp, sp² ve sp³ hibritleşmesi "legami tra atomi di carbonio" ile kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum; Sınav örneği: 2025 S43].
+- Molekül geometrisi (VSEPR) ve molekül polaritesi kapsamdadır [Yorum: "Polarità dei legami" ve "Legami intermolecolari"; Cmax s.346 "i fondamenti della relazione tra struttura e proprietà"]. Karbon dışı atomlarda (N, O, B) hibritleşme yalnızca geometriyi açıklama düzeyindedir.
+
+Madde ve stokiyometri:
+- Kütlenin korunumu, sabit oranlar ve katlı oranlar yasaları kapsamdadır [Yorum: stokiyometrinin doğrudan uygulaması; Cmax s.345 "le leggi fondamentali"; Sınav örneği (dolaylı): 2024 S45, sınırlayıcı bileşen].
+- Karışımları ayırma yöntemleri (süzme, damıtma, kromatografi, dekantasyon vb.) kapsamdadır [Yorum: "sistemi eterogenei e sistemi omogenei"].
+
+Enerji:
+- Ekzotermik ve endotermik tepkime kavramı kapsamdadır [Yorum: "Energia di legame", "i differenti tipi di reazione chimica"; Sınav örneği: 2026 S47]. Bağ enerjilerinden tepkime enerjisi tahmini (Σ kırılan − Σ oluşan) de kapsamdadır.
+- Hess yasası, oluşum entalpileri ve ΔG hesapları dışlanandır (Kural 3c hariç).
+
+Organik kimya:
+- Hidrokarbonlar ("Idrocarburi alifatici, aliciclici e aromatici"): alkenlere katılma ve yanma tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Idrocarburi alifatici", "i differenti tipi di reazione chimica"].
+- Sekiz fonksiyonel grup ("Gruppi funzionali"): tanımlayıcı tepkimeleri kapsamdadır; derinliği "Fondamenti" sınırlar [Yorum: "Gruppi funzionali", "i differenti tipi di reazione chimica"]. Bu tepkimeler: esterleşme, ester hidrolizi ve sabunlaşma, amit oluşumu ve alkollerin yükseltgenmesi.
+- Tepkime mekanizmaları (SN1, SN2, E1, E2) dışlanandır.
+
+Kapalı sayımlar:
+- "legame ionico, legame covalente e metallico".
+- "ossidi, idrossidi, acidi, sali".
+  - Hidrür ve peroksitlerin adlandırması sınırdadır.
+  - Peroksitlerde oksijenin yükseltgenme basamağı "numero di ossidazione" ile kapsamdadır.
+- "Idrocarburi alifatici, aliciclici e aromatici".
+- Sekiz fonksiyonel grup: "alcoli, eteri, ammine, aldeidi, chetoni, acidi carbossilici, esteri, ammidi".
+  - Öteki gruplar sınırdadır: alkil halojenürler, tiyoller, nitriller, anhidritler (Sınır listesi, Kimya).
+  - Biyolojide Kural 3c ile girenler: sisteinde tiyol ve disülfit köprüsü; ATP ve nükleik asitlerde fosfat esteri ve anhidrit bağı.
+
+"ecc." ve açık başlıklar:
+
+- Allegato A'da "ecc." yalnızca fonksiyonlar parantezinde geçer ("…crescenza e decrescenza, ecc."). Türevi kapsama almaz.
+- İçi sayılmamış başlıklar açıktır: "i differenti tipi di reazione chimica", "Legami intermolecolari", "Descrizione del moto".
+- "Esempi di forze" bir örnek listesidir.
+- Diğer sayımlar kapalı sayım kuralına tabidir.
+
+6. Genişletme ve adıyla ekleme ifadeleri
+
+Bu ifadeler kapsamı açıkça büyütür ya da bir konuyu adıyla ekler. Daraltma araçlarına odaklanılırken gözden kaçmamaları için ayrıca sayılır; hepsi kapsamdadır, derinliği T verir.
+
+Biyoloji:
+- "La cellula procariotica ed eucariotica, animale e vegetale"
+- "corredo cromosomico e mappe cromosomiche"
+- "Selezione naturale e artificiale"
+- "Le basi genetiche dell'evoluzione"
+- "e relative interazioni"
+- "la tecnologia del DNA ricombinante e le sue applicazioni"
+- "Omeostasi"
+
+Kimya:
+- "Idrolisi. Soluzioni tampone."
+
+Matematik:
+- "potenza n-esima di un binomio"
+- "Luoghi geometrici"
+- "Risoluzione dei triangoli"
+- "Funzioni composte e funzioni inverse"
+
+Fizik:
+- "Internazionale e Tecnico"
+- "Modalità di propagazione del calore"
+- "Costante dielettrica, capacità, condensatori"
+- "Serie e parallelo di condensatori"
+- "Principi di Kirchhoff"
+- "Effetto Joule"
+- "Corrente continua e alternata. Periodo e frequenza."
+- "Campo magnetico di una corrente elettrica"
+- "Induzione elettromagnetica"
+
+Bölüm 1–2'deki dört "anche":
+- "anche ricorrendo al linguaggio simbolico"
+- "Saranno oggetto di specifica verifica anche"
+- "anche di ambito sovranazionale"
+- "anche di natura astratta"
+
+Allegato A'da olmayan konular
+-----------------------------
+
+Indicazioni s.337–346'da geçip Allegato A'da adıyla geçmeyen konular Sınır ve Dışlanan tanımlarıyla sınıflanır. Aşağıdaki listeler örnektir; listede olmayan konu tanımlarla sınıflanır. Teknik ve mesleki belgelerdeki ek konular da aynı kurala tabidir; bunlar "yalnızca birleşimde" diye işaretlenir.
+
+Ele alınış:
+- Dışlananlar Kural 3a ile dışlanır ve çalışılmaz. Sınavda sorulmuş olanlar için Kural 3b'nin tanıma katmanı açılır. Araç olarak gerekenler Kural 3c ile girer.
+- Sınır öğeleri kanıtlıysa kanıtın gerektirdiği alt kavram T'de çalışılır. Kanıtsız ama Kural 3c bağımlılığı varsa onu gerektiren hedefin istediği derinlikte girer. İkisi de yoksa Kural 3b'nin kanıtsız sınır hükmü uygulanır.
+- Dışlama Allegato A'ya göredir, sınavın garantisi değildir. Sınavda sorulmuş dışlanmış konular Belge 2'deki 3b kanıt listesindedir.
+
+Parantezlerin anlamı. Dışlananlardaki parantezler, dışlamanın ötesinde kapsamda kalan komşu konuları gösterir. Sınırdaki "dayanak" kavramıyla karıştırılmamalıdır.
+
+Dışlanan
+
+Matematik:
+
+- Limit, türev, integral, diferansiyel denklem; türevle optimizasyon ve anlık değişim hızı (s.340–341).
+  - Kapsamda kalan: "continuità", "massimi e minimi", "crescenza e decrescenza"; parabol tepe noktasıyla ekstremum; ortalama değişim hızı ve eğim; koniklere Δ = 0 ile teğet.
+- Karmaşık sayılar, aşkın sayılar ve matematiksel sonsuz (s.340).
+- Dizi kuramı: özyinelemeli tanım, toplam formülleri, yakınsama (s.340).
+  - Kapsamda kalan: üslerle geometrik büyüme ve yarılanma; mantıkta araç olarak örüntüler.
+- Matris hesabı; vektörlerde doğrusal bağımlılık ve bağımsızlık (s.338).
+  - Kapsamda kalan: "Vettori e operazioni sui vettori" (Fizik); skaler ve vektörel çarpım.
+- Öklid algoritması ve √2'nin irrasyonelliğinin ispatı (s.338).
+  - Kapsamda kalan: çarpanlarla EBOB ve EKOK.
+- Cetvel-pergel inşaları, yöneylem araştırması ve karar teorisi (s.339).
+- Koniklerin sentetik incelenmesi (s.340).
+  - Kapsamda kalan: analitik inceleme.
+- Uzayda doğru ve düzlem konumları (s.340).
+  - Kapsamda kalan: hacim ve yüzey ölçümü.
+- Uzay analitik geometrisi (s.341).
+- Bayes formülü; olasılık dağılımları (binom, normal, Poisson); korelasyon-regresyon; koşullu ve marjinal dağılımlar; örneklem (s.341).
+  - Binom dağılımı genetikte Kural 3c ile girer.
+- Bilişim (s.340).
+- Tümevarım ve aksiyomatik yöntem (s.337, s.341).
+
+Fizik:
+
+- Geometrik optik (s.342).
+- Dalgalar ve ses (s.343).
+  - Kapsamda kalan: "moto armonico".
+- Maxwell denklemleri ve elektromanyetik dalgalar (s.343).
+  - Kapsamda kalan: "Induzione elettromagnetica".
+- Evrensel kütleçekimi ve Kepler yasaları (s.343, ayrı blok).
+  - Kapsamda kalan: "la forza peso" ve Newton yasaları.
+- Nicel kinetik teori: pV = ⅓Nm⟨v²⟩, v_rms (s.343).
+  - Kapsamda kalan: ideal gaz yasaları ve nitel kinetik-molekül modeli.
+- Özel görelilik, kütle-enerji eşdeğerliği, fisyon, füzyon ve nükleer enerji (s.343–344).
+  - Radyoaktif bozunma türleri ve yarılanma ömrü Sınır listesindedir (Kimya).
+- Atomik spektrumlar ve enerji düzeyi hesabı, Planck, fotoelektrik denklemi, de Broglie dalga boyu hesabı (s.343–344).
+  - Nitel dalga-parçacık ikiliği ve belirsizlik ilkesi Sınır listesindedir (Kimya).
+- Astrofizik, kozmoloji, parçacık fiziği, yarı iletkenler, mikro- ve nano-teknolojiler (s.344).
+
+Bohr modelinin statüsü Sınır listesinde (Kimya) yazılıdır. Elektron kabukları, orbitaller ve elektron dizilimi Kimya'da "struttura elettronica degli atomi" ile kapsamdadır [Sınav örneği: 2025 S46].
+
+Kimya:
+
+- Elektrokimya: pil, elektroliz, standart potansiyeller (s.346).
+  - Kapsamda kalan: redoks.
+- Hess yasası, oluşum entalpileri ve ΔG hesapları (s.346).
+  - Kapsamda kalan: ekzotermik ve endotermik tepkime kavramı ve bağ enerjisinden tepkime enerjisi tahmini.
+  - ΔG kavramı Kural 3c ile girer.
+- Organik tepkime mekanizmaları ve "approfondimento della chimica organica"nın (s.346) geri kalanı.
+  - Kapsamda kalan: sekiz grubun tanımlayıcı tepkimeleri.
+- Biyomateryaller (s.346).
+
+Biyoloji:
+
+- Ekoloji (s.345–346).
+  - Kapsamda kalan komşu konular: "Ereditarietà e ambiente", "Selezione naturale".
+- Sistematik ve biyoçeşitlilik (s.345).
+- Bitki doku, organ ve taşınım fizyolojisi (s.346).
+  - Kapsamda kalan: bitki hücresi, fotosentez, "Cicli vitali", "Riproduzione sessuata ed asessuata".
+- Sağlık eğitimi (s.346).
+
+Yer bilimleri:
+
+- Bloğun tamamı (s.344–346). Coğrafya yalnızca genel kültürde vardır.
+
+Sınır listesi
+
+Biçim: konu (Cmax sayfası; Allegato A dayanağı; kanıt durumu). Kanıtlı satırlarda yalnızca kanıtın gerektirdiği alt kavram T'de çalışılır; aynı satırın öteki alt kavramları kanıtsız sayılır (Belge 2, Kural 3b).
+
+Matematik:
+
+- Koşullu olasılık (s.341; dayanak: "Probabilità e frequenza", "Cenni di calcolo combinatorio"; kanıt yok). Genetik problemlerinde Kural 3c ile girer.
+- Köklü denklem ve eşitsizlikler (s.338; s.339'da yalnızca genel "un'equazione, una disequazione" ifadesi; dayanak: "Radicali e loro proprietà", "Equazioni e disequazioni algebriche di primo e secondo grado").
+  - Kanıt: 2025 S48, √(2x) < 1 + x, çözüm x ≥ 0.
+  - Cmax tavanı: s.338 "L'acquisizione dei metodi di calcolo dei radicali non sarà accompagnata da eccessivi tecnicismi manipolatori".
+- Kümeler dili, ör. kartezyen çarpım (s.339; dayanak: "Insiemi numerici"; kanıt: 2025 S50).
+- |x|'in fonksiyon ve grafik olarak işlenmesi, parçalı doğrusal fonksiyonlar ve doğru demetleri (s.339; dayanak: "nozioni fondamentali sulle funzioni … ecc." açık parantezi, "Equazione della retta"; kanıt yok). Denklem ve eşitsizlikler ile nokta-eğim biçimi kapsamdadır.
+- 3. ve üstü derece polinom denklemlerinin genel çözüm sayısı kuramı (s.340; dayanak: "scomposizione in fattori dei polinomi"; kanıt yok). Çarpanlarla inen denklemler kapsamdadır.
+- Yaklaşık hesabın teorisi, ör. hata sınırları (s.338, s.340; dayanak: "ordine di grandezza e notazione scientifica"; kanıt yok).
+- Standart sapma ve diğer değişkenlik ölçüleri (s.339, s.341; dayanak: "distribuzioni delle frequenze"; kanıt yok).
+
+Fizik:
+
+- Eylemsiz ve eylemsiz olmayan çerçeveler, Galile göreliliği ve dönüşümünün geçerlik koşulu (s.343; dayanak: "Descrizione del moto", "Il principio d'inerzia").
+  - Kanıt: 2026 S49, Galile dönüşümlerinin geçerli olduğu göreli hareket. Yalnızca bu alt kavram T'de.
+- Listedeki dört türün ve vektörel bileşimlerinin dışındaki hareketler, ör. düzgün olmayan çembersel hareket ve teğetsel ivme (s.342–343: "i moti saranno affrontati innanzitutto dal punto di vista cinematico", "Saranno riprese le leggi del moto"; dayanak: "Descrizione del moto"; kanıt yok).
+- Tek bir yüklü parçacığa etkiyen manyetik kuvvet, Lorentz (s.343; dayanak: "Forze sulle correnti elettriche in campo magnetico", "moto circolare uniforme").
+  - Kanıt: 2024 S58, manyetik alanda elektron; formül tanıma düzeyinde r = mv/(qB), T = 2πm/(qB), f = qB/(2πm).
+- Kütle merkezi ve hareketi (s.343, "sistemi di corpi"; dayanak: "Principio di conservazione della quantità di moto"; kanıt yok). Kendi ağırlığı olan çubuğun dengesinde ağırlık merkezi Kural 3c ile girer.
+- Eylemsizlik momenti hesapları (s.343, "altri principi di conservazione"; dayanak: "Momento di una forza e momento angolare"; kanıt yok).
+- RC ve RL geçici rejimleri (s.343; dayanak: "capacità, condensatori", "Induzione elettromagnetica"; kanıt yok).
+- Poiseuille yasası (s.343, "moto dei fluidi"; dayanak: "Forze viscose nei fluidi reali"; kanıt yok).
+- Nicel entropi hesabı (s.343; dayanak: "Primo e secondo principio della termodinamica"; kanıt yok).
+- CGS birim sistemi (s.342; dayanak: "Sistemi di unità di misura: Internazionale e Tecnico" kapalı sayımı; kanıt yok).
+
+Kimya:
+
+- Gaz içeren dengeler: homojen gaz ve katı–gaz heterojen dengeleri, Kp ve Le Chatelier (s.346, "equilibri, anche in soluzione"; dayanak: "Equilibri in soluzione acquosa", "Leggi dei gas perfetti").
+  - Kanıt: 2025 S41, ısı + 2FeCl₃(k) ⇌ 2FeCl₂(k) + Cl₂(g). Nitel Le Chatelier T'de; Kp hesabı kanıtsız.
+- Tarihsel atom modelleri (Dalton, Thomson, Rutherford, Bohr); elektronun dalga-parçacık ikiliği, belirsizlik ilkesi ve foton kavramı nitel düzeyde (s.344–346; dayanak: "La struttura dell'atomo"; kanıt yok). Atomik spektrum ve enerji düzeyi hesabı dışlanmıştır; elektron dizilimi kapsamdadır.
+- Radyoaktivite: α, β ve γ bozunmasının Z ve A'ya etkisi, yarılanma ömrü (s.343; dayanak: "numero atomico e numero di massa, isotopi"; kanıt yok). Yarılanma aritmetiği üstel fonksiyon olarak kapsamdadır. Fisyon, füzyon ve kütle-enerji dışlanandır.
+- Koligatif özellikler: buhar basıncı düşmesi, kaynama noktası yükselmesi, donma noktası alçalması, ozmotik basınç (yalnızca birleşimde: Dir. 57/2010 All. A.1 ve A.2 "proprietà colligative"; dayanak: "Le soluzioni: … concentrazione delle soluzioni"; kanıt yok).
+  - Ozmotik basınç ayrıca Kural 3c ile girer.
+  - Osmoz, tonisite ve ozmolarite karşılaştırması kapsamdadır ("il trasporto attraverso la membrana", "Omeostasi").
+- Normalite ve eşdeğer kavramı (Cmax dayanağı Doğrulanmalı: s.337–346'da yok, teknik ve mesleki belgelerde aranmalı; bulunmazsa tanımsız; dayanak: "i principali modi di esprimere la concentrazione"; kanıt yok).
+- Hidrür ve peroksitlerin adlandırması (s.346, "classificazione dei principali composti inorganici e la relativa nomenclatura"; dayanak: "ossidi, idrossidi, acidi, sali" kapalı sayımı; kanıt yok).
+- Sekiz grup dışındaki fonksiyonel gruplar: alkil halojenürler, tiyoller, nitriller, anhidritler (s.346, "gruppi funzionali e classi di composti ecc."; dayanak: "Gruppi funzionali" kapalı sayımı; kanıt yok).
+  - Kural 3c ile girenler için kapalı sayımlar bölümüne bakın.
+
+Biyoloji:
+
+- Biyoenerjetik listesi dışındaki metabolik yollar (s.346, "funzioni metaboliche di base"; dayanak: "Bioenergetica", "Anatomia e fisiologia di sistemi ed apparati nell'uomo").
+  - Üre döngüsü: kanıt 2025 S25, yalnızca yeri (karaciğer) ve işlevi (azot atımı) T'de.
+  - Kanıtsız: β-oksidasyon, transaminasyon, glukoneojenez, glikojen metabolizması. β-oksidasyon ve transaminasyon 2025 S25'te yalnızca yanlış şık olarak geçer.
+- Michaelis–Menten nicel enzim kinetiği (s.346, "biochimica"; dayanak: "Il ruolo degli enzimi", "Elementi di cinetica chimica e catalisi"; kanıt yok). Yarışmalı inhibisyonun nitel mekanizması kapsamdadır.
+- Y'ye bağlı ve mitokondriyal kalıtım (s.345–346; dayanak: "malattie ereditarie autosomiche e legate al cromosoma X" kapalı sayımı, "modelli di ereditarietà"; kanıt yok).
+- Hayvanlarda sistem ve aygıt düzeyinde anatomi-fizyoloji (s.346, "vegetali e animali, uomo compreso"; dayanak: "Anatomia e Fisiologia degli animali"; "nell'uomo" belirteciyle kesilen kısım; kanıt yok).
+- Mikroskobik gözlem teknikleri (s.345; dayanak: "Dimensioni cellulari"; kanıt yok).
+- Mikrobiyal çeşitlilik: protistler, mantarlar, bakterilerin metabolizma türleri (s.346, "microrganismi"; dayanak: "La cellula procariotica", "I virus"; kanıt yok). Bakteri genetiği ve virüs döngüleri kapsamdadır.
+- Genel ve karşılaştırmalı gelişim biyolojisi: gastrulasyon modelleri, farklılaşma mekanizmaları (s.346, "la riproduzione e lo sviluppo"; dayanak: "Cicli vitali", "Riproduzione"; kanıt yok). İnsan embriyo ve fetüs gelişimi kapsamdadır.
+
+Zayıf sinyaller
+
+- Fonksiyonlar parantezi "ecc." ile biter, ama türev Dışlanan listesindedir; "ecc." onu kapsama almaz.
+- Ortalama, ortanca ve tepe değer frekans dağılımlarının doğrudan uygulamasıdır; kapsamdadır [Yorum].
