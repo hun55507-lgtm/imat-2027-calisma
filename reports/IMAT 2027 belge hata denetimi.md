@@ -4,37 +4,24 @@ Belge 1 ve Belge 2, ekteki iki birincil metne yaptıkları atıflarda güvenilir
 
 ## Belgelerin amacına göre okuma (11 Ekim 2026 eki)
 
-Kullanıcı amacı netleştirdi: Belge 1 ve 2 bir çalışma listesi değil, Allegato A ile Indicazioni'yi tanımlayan ve plan kurarken bu iki belgenin nasıl kullanılacağını gösteren bir kılavuz. Bu raporun bir kısmı ise belgeleri her konuyu sınıflayan eksiksiz bir liste gibi denetledi. Bu amaçla bakınca bulgular üç gruba ayrılıyor.
+Kullanıcı amacı netleştirdi: Belge 1 ve 2, Allegato A ile Indicazioni kullanılırken sınavda hangi konudan, hangi kaynaktan ve ne kadar sorumlu olunduğunu gösteren bir kılavuz. Kılavuz bu bilgiyle verimli bir çalışma planı kurmaya yarıyor. Bu yüzden ölçüt şu: bir bulgu, kılavuz uygulandığında "bu konudan sorumlu muyum, ne derinlikte?" sorusuna yanlış ya da belirsiz cevap verdiriyorsa önemlidir.
 
-**1. Kaynak belgeyi yanlış ya da eksik tanımlayan ifadeler (düzeltilmeli):**
-- **Hukuk ve yönetmelik:** HA1 (L. 264/1999 m.4 c.2 → c.1'in ikinci cümlesi ve c.1-bis); HA3 (30 → 29 Eylül değişikliğini 29.7.2026 errata'sı yaptı); HA5 (Allegato 1'de yasak bendi 2025'te p.8 f; 2026 numarası doğrulanmalı).
-- **Allegato A'nın ifadelerini yanlış niteleyenler:**
-  - KD1: "in soluzione acquosa" belirtecinin dışarıda bıraktığı şey "gaz içeren dengeler"dir, bütün heterojen dengeler değil; Kps sulu ve heterojendir.
-  - KD11: "Internazionale e Tecnico" yalnızca daraltmıyor, Teknik sistemi adıyla içeriğe ekliyor; "Periodo e frequenza" alternatif akım bağlamında.
-  - MS8: "Seno, coseno, tangente di un angolo **e loro valori notevoli**" kesik alıntılanmış; ek ifade aslında bir derinlik sınırı ve niteleyici listesinde yok.
-  - MS9: "nozioni fondamentali" yalnızca ilk cümleyi niteler.
-  - MS13: "Il DNA dei procarioti" ve "La struttura del cromosoma eucariotico" daraltıcı değil, adıyla eklenen konular; "e relative interazioni" atlanmış.
-  - MS14: "Cenni di calcolo combinatorio" cebir maddesinde.
-  - KD14: "Diğer sayımlar kapalıdır" belgenin kendi logaritma tabanı okumasıyla çelişiyor.
-  - MS11–MS12: "…di sistemi diversi" düşmüş; "Leggi dei gas perfetti" iki yerde geçiyor.
-- **Bölüm 1'in aktarımı:** MS2–MS4. "oppure" "ya da" olmalı. "competenza trasversale" atlanmış. "competenze acquisite negli studi pregressi" genel kültürle aynı cümlede. "storico, geografico, sociale e istituzionale" giriş paragrafından ve "con speciale riguardo" ile geçiyor.
-- **Okul tablosu:** OM3 ("Schema di D.P.R." desteklenmiyor; kaynaklar "schema di regolamento" diyor); OM4 (liceo sportivo "ayrı OSA" doğrulanamadı); OM5 (Dir. 69/2012 eksik, DD 92/2024 atfı görülmedi); OM6 (D.M. 29/2026 tarihi 19.2.2026); statü etiketleri.
-- **Kanıt açıklamaları:**
-  - KD9 / A3: 2024–2026 penceresinin gerekçesi 2023'ü dışlamıyor.
-  - MS16–MS17 ve KD15–KD16: 2024 S58 nicel değil, formül tanıma; 2024 S49 yalnızca log₂ tanımı; 2024 S45 dolaylı kanıt; 2025 S25 yalnızca yer soruyor.
-  - KD7: 2024 S50 sıralı sayımla çözülüyor.
-  - MS28: 2026 S29/S31 numaraları doğrulanmalı.
+**1. Sorumluluk cevabını yanlış ya da belirsiz verdirenler (düzeltilmeli), önem sırasıyla:**
+1. **KD2, listelerin kapalı yazılması.** "Her sınır öğesi … Sınır listesi'nde yazılıdır" ve adım 4 ("listelerde olmayan konu … çalışılmaz") yüzünden, listede olmayan her konu otomatik olarak sorumluluk dışı sayılıyor. Önerilen cümle: "Listeler örnektir; listede olmayan konu Sınır tanımıyla sınıflanır: doğrudan uygulama → kapsam; Allegato A'da dayanağı olan yeni kavram → sınır; dayanaksız → dışlanan."
+2. **KD1, Kps.** "gaz fazı ve heterojen denge … sınırdadır" ifadesi kapsamdaki çözünürlük dengesini sınıra itiyor. Doğrusu: "gaz içeren dengeler sınırdadır; Kps kapsamdadır".
+3. **KD11, adıyla sorumlu olunan ama daraltıcı diye anılan ifadeler.** "Internazionale e Tecnico" Teknik sistemi (kgf, kgm, CV ve SI dönüşümleri) adıyla sorumluluğa ekliyor. "Corrente continua e alternata. Periodo e frequenza." ifadesi alternatif akımı ekliyor.
+4. **KD8, sınır satırlarının kapsamdaki alt konuları yakalaması.** "Gelişim" satırı insan üremesi ve embriyolojiyi ("apparati nell'uomo"), "Mikroorganizmalar" bakteri genetiği ve virüs döngülerini, "Cisim sistemleri" çarpışmaları, "doğru demetleri" nokta-eğim biçimini en fazla 1 saate düşürüyor.
+5. **KD3, belirsiz denklemler.** Çarpanlara ayrılarak çözülen 3. ve üstü derece denklem ve eşitsizlikler ile ikinci derece \|x\| belirsiz kalıyor.
+6. **KD6 ve KD7, "ne kadar" sorusunun ölçüsü.** Kural 3b'deki "en fazla 1 / 2 saat"in birimi (madde mi, alt konu mu) ve tanıma katmanının içeriği tanımsız. "Kanıt" ölçütü de tanımsız: 2024 S50 sıralı sayımla çözülüyor, tek bir soru bütün maddeyi T'ye taşıyor.
+7. **KD15–KD16 ve MS16–MS17, abartılı derinlik çıpaları ve kanıt etiketleri.** 2024 S58 nicel bir hesap değil, formül tanıma; 2025 S25 yalnızca yeri soruyor; 2024 S49 yalnızca log₂ tanımı.
+8. **MS8, eksik derinlik sınırı.** "…di un angolo e loro valori notevoli": trigonometrik değerler özel açılarla sınırlı; niteleyici listesine eklenmeli.
+9. **KD14 ve KD12–KD13, belirsiz kurallar.** "Diğer sayımlar kapalıdır" cümlesi log tabanı okumasıyla çelişiyor (cot/sec/csc). Niteleyici, çıpa ve $C_{max}$ arasında öncelik sırası yok.
+10. **KD9–KD10, kanıt tabanının eksiği.** 2023 kitapçığı aynı formatta ve büyük olasılıkla aynı Allegato A ile yapıldı ama eşlenmedi; 2026 Q35'in denge türü bilinmiyor.
+11. **KD17, tek başına okununca yanlış sorumluluk veren Dışlanan satırları.** "optimizasyon ve değişim hızı" parabol tepe noktasını ve ortalama hızı da dışlıyor gibi okunuyor.
 
-**2. Kılavuzun kullanım kuralında bir yapı sorunu (tek cümleyle düzelir):** Belge listeleri eksiksiz gibi tanımlıyor ("Her sınır öğesi … Sınır listesi'nde yazılıdır"; adım 4: "Allegato A'da ve listelerde olmayan konu … çalışılmaz"). Plan kurarken listede olmayan bir konuyla karşılaşıldığında bu cümleler onu otomatik olarak 0 saate düşürür (KD2). Önerilen cümle: "Listeler örnektir; listede olmayan konu Sınır tanımıyla sınıflanır: doğrudan uygulama → kapsam; Allegato A'da bir dayanağı olan yeni kavram → sınır; dayanaksız → dışlanan." Aynı nedenle Allegato A'nın tanımına genişleten ifadeler de eklenmeli: "Tecnico", "animale e vegetale", "e relative interazioni", "e loro applicazioni", "Selezione … artificiale" (MS27). Belge şu an yalnızca daraltan ifadeleri sayıyor.
+**2. Bu amaç için gerekmeyenler (sadeleştirilebilir):** Hukuki kimlik ve çerçeve ayrıntıları sorumluluk kararını değiştirmiyor. Bunlar L. 264/1999 fıkraları, D.Lgs. 71/2025, takvim duyuruları, DM numaraları, okul tablosundaki kararname ve statü ayrıntıları ile NCERT statüsü. Bu bölümler korunacaksa HA1–HA9 ve OM1–OM12'deki düzeltmeler yapılmalı. Ama amaç için tek cümle yeter: "Sorumluluğu yıllık DM'nin Allegato A'sı belirler; üst sınır liceo scientifico Indicazioni'si (ve teknik/mesleki Linee guida); 2027 DM'si çıkınca Allegato A metni karşılaştırılır."
 
-**3. Plan aşamasına ait, tanım metninin hatası olmayanlar:**
-- Tek tek konuların yeri: VSEPR (KD4), organik tepkime türleri (KD5), yüksek dereceli denklemler (KD3), insan embriyolojisi ve öteki sınır satırı ayrıntıları (KD8), radyoaktivite ve nitel kuantum (KD18).
-- Kural 3b'nin saat birimi ve tanıma katmanının içeriği (KD6).
-- Derinlik öncelikleri (KD12–KD13).
-- Dışlanan satırlarının tek başına okunması (KD17).
-- Beceri bütçesi (KD20).
-
-Bunlar plan kurulurken Allegato A'ya doğrudan bakılarak karara bağlanır. 2. maddedeki cümle eklenirse kılavuz bu kararlara doğru yolu gösterir.
+**3. Doğru ve yeterli olanlar:** Alıntılar ve sayfalar, derinlik niteleyicileri, "principali" listesi, kapalı sayımlar, Dışlanan/Sınır listelerinin büyük kısmı ve Sorumluluk özetindeki adım sırası.
 
 ## Birincil metin sağlam, web kanıtı yalnızca arama özeti
 
