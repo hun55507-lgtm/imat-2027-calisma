@@ -1,5 +1,7 @@
 # Belge 1 ve Belge 2: satır satır doğrulama
 
+> **Not (11 Ekim 2026):** Bu raporun yerini daha kapsamlı denetim aldı: `reports/IMAT 2027 belge hata denetimi.md`. Oradaki hükümler buradakilerden önceliklidir; özellikle A2 (hesap makinesi) ve A3'teki alternatif gerekçe geri alındı, "içerik hatası yok" genel hükmü düştü.
+
 **Tarih:** 10 Ekim 2026
 **İncelenen metinler:** Belge 1 (Terminal Sınav Çerçevesi, $M_3$) ve Belge 2 (Operasyonel Tavan ve Epistemolojik Matris, $C_{max}$)
 **Karşılaştırılan birincil metinler (depoda):**
